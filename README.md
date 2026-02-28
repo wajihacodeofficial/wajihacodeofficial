@@ -91,7 +91,16 @@ If you're a frontend learner — feel free to collaborate.
   <img src="https://github-readme-stats.vercel.app/api?username=wajihacodeofficial&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=wajihacodeofficial&theme=tokyonight" />
 </p>
+## ⚡️ Stats
 
+
+<div align=center>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=wajihacodeofficial&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Wajiha's GitHub Stats" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=wajihacodeofficial&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Wajiha's" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=wajihacodeofficial&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Wajiha's Most Used Languages" />
+</div>
+
+<hr>
 ---
 
 ## 🔥 Most Used Languages
