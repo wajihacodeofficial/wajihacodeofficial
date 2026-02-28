@@ -1,72 +1,70 @@
-# 👋 Hi, I'm Wajiha Zehra
+<h1 align="center">👋 Hello!</h1>
 
-### Junior Frontend Developer | React Enthusiast | Building Scalable UI Systems
-
-I’m a passionate Junior Frontend Developer focused on building clean, responsive, and performance-driven web applications.  
-Currently growing my expertise in React architecture, scalable frontend systems, and production-ready SaaS applications.
-
----
-
-## 🚀 About Me
-
-- 💻 Working with React, JavaScript, HTML5, CSS3
-- 📦 Building modular and reusable UI components
-- 🔗 Integrating REST APIs into frontend applications
-- ⚡ Improving performance with code splitting & lazy loading
-- 🎯 Focused on writing clean, maintainable code
-- 📚 Continuously learning advanced frontend architecture
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=wajihacodeofficial&label=Profile%20Views&color=blue&style=flat" />
+  <img src="https://img.shields.io/github/followers/wajihacodeofficial?label=Followers&style=social" />
+  <img src="https://img.shields.io/github/stars/wajihacodeofficial?label=Total%20Stars&style=flat-square" />
+</p>
 
 ---
 
-## 🛠 Tech Stack
+Glad to see you here! I'm **Wajiha Zehra**, a **Frontend Developer** passionate about building scalable, production-ready UI systems using modern React architecture.
 
-### 🎨 Frontend
-- React
-- JavaScript (ES6+)
-- HTML5
-- CSS3
-- Responsive Design
+With a strong focus on performance, modularity, and clean code principles, I build frontend systems designed for real-world SaaS environments.
 
-### 🔗 Integration
-- REST APIs
-- Authentication Systems
-- API Handling & Error Management
+---
 
-### ⚡ Optimization
-- Code Splitting
-- Lazy Loading
-- Component Reusability
-- Performance Debugging
+## 🚀 Currently Building & Exploring
+
+- ⚛️ Scalable React architecture
+- 🧩 Reusable component-driven systems
+- 🔗 Clean REST API integration
+- ⚡ Performance-first UI development
+- 📦 Modular folder structuring
+- 🧠 Advanced frontend patterns
 
 ---
 
 ## 📌 Selected Projects
 
-### 🧠 Edu-Track LMS
-Learning management system interface with modular components and role-based dashboards.
+Apart from my pinned repositories, I’ve built:
 
-### 🏥 Medify WebApp
-Healthcare-related web platform with API integration and responsive UI.
+- 🧠 **Edu-Track LMS**  
+  Modular learning management system with role-based dashboards
 
-### 🍔 BiteDash Platform
-Frontend system built with scalable component structure and performance focus.
+- 🏥 **Medify WebApp**  
+  Healthcare interface with secure API integration & responsive UI
 
-### 🌊 RapidWave SaaS Systems
-SaaS-based frontend interface designed for production usage.
+- 🍔 **BiteDash Platform**  
+  Scalable frontend architecture focused on performance
 
----
-
-## 📊 What I'm Improving
-
-- Advanced React patterns
-- Scalable folder architecture
-- State management patterns
-- Performance optimization techniques
-- Clean code principles
+- 🌊 **RapidWave SaaS Systems**  
+  Production-oriented SaaS frontend structure
 
 ---
 
-## 🧠 My Frontend Philosophy
+## 🛠 Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,git,github" />
+</p>
+
+### 🔗 Integration & Systems
+- REST APIs
+- Authentication flows
+- API error handling
+- Secure data rendering
+
+### ⚡ Optimization Practices
+- Code Splitting
+- Lazy Loading
+- Component Reusability
+- Performance Debugging
+- Clean Architecture Principles
+
+---
+
+## 🧠 Frontend Philosophy
 
 ✔ Clean UI  
 ✔ Maintainable Code  
@@ -76,30 +74,38 @@ SaaS-based frontend interface designed for production usage.
 
 ---
 
-## 📈 Current Goals
+## 🌍 Open To
 
-- Strengthen frontend architecture skills  
-- Contribute to open-source projects  
-- Build production-grade SaaS applications  
-- Grow into a Senior Frontend Engineer role  
-
----
-
-## 🤝 Open To
-
-- Junior Frontend Developer Roles  
-- Frontend Internship Opportunities  
-- Remote React Projects  
-- Open Source Collaboration  
+- Frontend Developer Roles
+- React Internships
+- Remote UI Projects
+- Open Source Collaboration
 
 ---
 
-## 📬 Let's Connect
+## 📊 GitHub Activity
 
-- LinkedIn: [Add your LinkedIn link]
-- Portfolio: [Add portfolio link if available]
-- Email: [Your professional email]
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wajihacodeofficial&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wajihacodeofficial&theme=tokyonight" />
+</p>
 
 ---
 
-⭐ Thanks for visiting my profile!
+## 🔥 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wajihacodeofficial&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+- 💼 LinkedIn: [Add Your Link]
+- 🌐 Portfolio: [Add Portfolio Link]
+- 📬 Email: [Add Professional Email]
+
+---
+
+### 💬 Let’s build scalable, performance-driven frontend systems together!
