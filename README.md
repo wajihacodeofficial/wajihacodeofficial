@@ -1,72 +1,105 @@
-# 👋 Hi, I'm Wajiha Zehra  
-### 🎨 Frontend Engineer | ⚡ SaaS UI Architect | 🚀 Co-Founder
+# 👋 Hi, I'm Wajiha Zehra
 
-I build high-performance, scalable SaaS interfaces used in real production environments.
+### Junior Frontend Developer | React Enthusiast | Building Scalable UI Systems
 
----
-
-## 💡 What I Do
-
-🖥 Design modular React architectures  
-📱 Build responsive, cross-device UI systems  
-⚙️ Integrate REST APIs into scalable frontend layers  
-⚡ Optimize performance with code splitting & lazy loading  
-🏗 Deliver production-ready SaaS platforms  
+I’m a passionate Junior Frontend Developer focused on building clean, responsive, and performance-driven web applications.  
+Currently growing my expertise in React architecture, scalable frontend systems, and production-ready SaaS applications.
 
 ---
 
-## 📊 Impact
+## 🚀 About Me
 
-🚀 10k+ Combined Active Users  
-⚡ 40% Frontend Performance Improvement  
-🛠 25% Faster Bug Resolution  
-🏗 3+ Production SaaS Deployments  
+- 💻 Working with React, JavaScript, HTML5, CSS3
+- 📦 Building modular and reusable UI components
+- 🔗 Integrating REST APIs into frontend applications
+- ⚡ Improving performance with code splitting & lazy loading
+- 🎯 Focused on writing clean, maintainable code
+- 📚 Continuously learning advanced frontend architecture
 
 ---
 
 ## 🛠 Tech Stack
 
 ### 🎨 Frontend
-React • JavaScript • HTML5 • CSS3  
+- React
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- Responsive Design
 
 ### 🔗 Integration
-REST APIs • Authentication Systems  
+- REST APIs
+- Authentication Systems
+- API Handling & Error Management
 
 ### ⚡ Optimization
-Code Splitting • Lazy Loading • Modular Architecture  
+- Code Splitting
+- Lazy Loading
+- Component Reusability
+- Performance Debugging
 
 ---
 
-## 🏆 Selected Work
+## 📌 Selected Projects
 
-🧠 Edu-Track LMS  
-🏥 Medify WebApp  
-🍔 BiteDash Platform  
-🌊 RapidWave SaaS Systems  
+### 🧠 Edu-Track LMS
+Learning management system interface with modular components and role-based dashboards.
 
-Explore pinned repositories below for full architecture and implementation details.
+### 🏥 Medify WebApp
+Healthcare-related web platform with API integration and responsive UI.
+
+### 🍔 BiteDash Platform
+Frontend system built with scalable component structure and performance focus.
+
+### 🌊 RapidWave SaaS Systems
+SaaS-based frontend interface designed for production usage.
 
 ---
 
-## 🎯 My Frontend Philosophy
+## 📊 What I'm Improving
+
+- Advanced React patterns
+- Scalable folder architecture
+- State management patterns
+- Performance optimization techniques
+- Clean code principles
+
+---
+
+## 🧠 My Frontend Philosophy
 
 ✔ Clean UI  
-✔ Scalable Structure  
 ✔ Maintainable Code  
+✔ Reusable Components  
 ✔ Performance First  
 ✔ Built for Real Users  
 
 ---
 
-## 🤝 Open To
+## 📈 Current Goals
 
-💼 Frontend SaaS Roles  
-🚀 UI Architecture Consulting  
-⚡ Performance Optimization Projects  
+- Strengthen frontend architecture skills  
+- Contribute to open-source projects  
+- Build production-grade SaaS applications  
+- Grow into a Senior Frontend Engineer role  
 
 ---
 
-## 📫 Connect With Me
+## 🤝 Open To
 
-📧 wajihacodeofficial@gmail.com  
-💼 LinkedIn: https://linkedin.com/in/wajihacodeofficial
+- Junior Frontend Developer Roles  
+- Frontend Internship Opportunities  
+- Remote React Projects  
+- Open Source Collaboration  
+
+---
+
+## 📬 Let's Connect
+
+- LinkedIn: [Add your LinkedIn link]
+- Portfolio: [Add portfolio link if available]
+- Email: [Your professional email]
+
+---
+
+⭐ Thanks for visiting my profile!
