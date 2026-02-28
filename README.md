@@ -1,16 +1,72 @@
-## Hi there 👋
+# 👋 Hi, I'm Wajiha Zehra  
+### 🎨 Frontend Engineer | ⚡ SaaS UI Architect | 🚀 Co-Founder
 
-<!--
-**wajihacodeofficial/wajihacodeofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build high-performance, scalable SaaS interfaces used in real production environments.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 What I Do
+
+🖥 Design modular React architectures  
+📱 Build responsive, cross-device UI systems  
+⚙️ Integrate REST APIs into scalable frontend layers  
+⚡ Optimize performance with code splitting & lazy loading  
+🏗 Deliver production-ready SaaS platforms  
+
+---
+
+## 📊 Impact
+
+🚀 10k+ Combined Active Users  
+⚡ 40% Frontend Performance Improvement  
+🛠 25% Faster Bug Resolution  
+🏗 3+ Production SaaS Deployments  
+
+---
+
+## 🛠 Tech Stack
+
+### 🎨 Frontend
+React • JavaScript • HTML5 • CSS3  
+
+### 🔗 Integration
+REST APIs • Authentication Systems  
+
+### ⚡ Optimization
+Code Splitting • Lazy Loading • Modular Architecture  
+
+---
+
+## 🏆 Selected Work
+
+🧠 Edu-Track LMS  
+🏥 Medify WebApp  
+🍔 BiteDash Platform  
+🌊 RapidWave SaaS Systems  
+
+Explore pinned repositories below for full architecture and implementation details.
+
+---
+
+## 🎯 My Frontend Philosophy
+
+✔ Clean UI  
+✔ Scalable Structure  
+✔ Maintainable Code  
+✔ Performance First  
+✔ Built for Real Users  
+
+---
+
+## 🤝 Open To
+
+💼 Frontend SaaS Roles  
+🚀 UI Architecture Consulting  
+⚡ Performance Optimization Projects  
+
+---
+
+## 📫 Connect With Me
+
+📧 wajihacodeofficial@gmail.com  
+💼 LinkedIn: https://linkedin.com/in/wajihacodeofficial
