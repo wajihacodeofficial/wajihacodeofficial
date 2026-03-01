@@ -1,38 +1,52 @@
-# 👋 Hello there! I'm Wajiha Zehra
+# Hello! I'm Wajiha Zehra
+### Frontend-focused Fullstack Developer | React Enthusiast | Open Source Contributor
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Open+Source+Enthusiast;Tech+Explorer&font=Fira+Code&size=30&duration=4000&color=F7DF1E&center=true&vCenter=true&width=600&height=50">
-</p>
-
-## 🚀 About Me
-I'm a passionate Full Stack Developer with a drive for creating intuitive and efficient web applications. I love exploring new technologies and contributing to open-source projects.
-
-- 🔭 I’m currently working on building high-performance UI components.
-- 🌱 I’m currently learning advanced cloud architecture and system design.
-- 💬 Ask me about React, Node.js, or performance optimization.
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/wajihazehra)
-
-## 🛠️ Tech Stack
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wajihacodeofficial&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wajihacodeofficial&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wajihacodeofficial&theme=radical" alt="Streak Stats" />
-</p>
-
-## 🐍 Snake Animation
-![snake git stats](https://github.com/wajihacodeofficial/wajihacodeofficial/blob/output/github-contribution-grid-snake.svg)
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Fullstack+Developer;Frontend+Focused;React+Specialist;Open+Source+Lover" alt="Typing SVG" />
+</p>p>
 
 ---
-⭐️ From [wajihacodeofficial](https://github.com/wajihacodeofficial)
+
+### About Me
+Glad to see you here! I'm **Wajiha Zehra**, a Software Engineer with a strong passion for Frontend development and building scalable web applications. I love crafting beautiful user interfaces and solving complex problems with modern tech stacks.
+
+- I am currently building **Aura UI Framework**, a modern CSS-in-JS library.
+- - I am currently learning **Advanced Backend Patterns & System Design**.
+  - - I am looking to collaborate on **Open Source React Projects**.
+    - - Ask me about **React, TypeScript, and UI/UX**.
+      - - How to reach me: [LinkedIn](https://www.linkedin.com/in/wajihazehra/)
+       
+        - ---
+
+        ### Tech Stack
+        | Category | Tools |
+        | --- | --- |
+        | **Frontend** | React, Next.js, TypeScript, TailwindCSS |
+        | **Backend** | NodeJS, Express.js, PostgreSQL |
+        | **Tools** | Git, Docker, AWS |
+
+        ---
+
+        ### Featured Projects
+        - **Aura UI Framework**: A modern, lightweight CSS-in-JS library for React.
+        - - **RapidWave**: A high-performance software web application built with TypeScript.
+          - - **Medify**: A comprehensive web application for medical management.
+           
+            - ---
+
+            ### GitHub Stats
+            <p align="center">
+              <img src="https://github-readme-stats.vercel.app/api?username=wajihacodeofficial&show_icons=true&theme=radical" alt="GitHub Stats" />
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wajihacodeofficial&layout=compact&theme=radical" alt="Top Languages" />
+            </p>p>
+
+            ---
+
+            ### Snake Animation
+            ![github contribubuion grid snake animation](https://raw.githubusercontent.com/wajihacodeofficial/wajihacodeofficial/output/github-contribution-grid-snake.svg)
+
+            ---
+
+            <p align="center">
+              <img src="https://komarev.com/ghpvc/?username=wajihacodeofficial&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+            </p>
