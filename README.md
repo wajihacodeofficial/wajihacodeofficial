@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Wajiha%20Zehra&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20Frontend%20Focused%20%7C%20React%20Specialist&descAlignY=51&descAlign=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Wajiha%20Zehra&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20Frontend%20Focused%20%7C%20React%20Specialist&descAlignY=51&descAlign=62" />
 </div>
 
 <div align="center">
@@ -9,12 +9,15 @@
   <a href="https://github.com/wajihacodeofficial" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="mailto:wajihazehra@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Frontend-focused+Fullstack+Developer;Building+Aura+UI+Framework;Mastering+Advanced+System+Design;Modern+Web+Experiences;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F52271&center=true&vCenter=true&width=600&lines=Frontend-focused+Fullstack+Developer;Building+Scalable+Web+Apps;Mastering+System+Design;Modern+Web+Experiences;Open+Source+Contributor" alt="Typing SVG" />
 </div>
 
 ---
@@ -23,7 +26,7 @@
 
 I'm a **Software Engineer** with a strong passion for Frontend development and building scalable, high-performance web applications. I thrive on crafting beautiful, pixel-perfect user interfaces and solving complex engineering challenges with modern tech stacks.
 
-- 🔭 I’m currently building an open-source CSS-in-JS library, **Aura UI Framework**
+- 🔭 I’m currently building **Full-Stack Web Applications** using Next.js & MERN.
 - 🌱 I’m currently learning **Advanced Backend Patterns & System Design**
 - 👯 I’m looking to collaborate on **Open Source React Projects**
 - 💬 Ask me about **React, Next.js, TypeScript, and UI/UX**
@@ -33,108 +36,65 @@ I'm a **Software Engineer** with a strong passion for Frontend development and b
 
 ### 💻 Tech Stack & Tools
 
-<details open>
-<summary><b>Frontend Development</b></summary>
-<br/>
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
-</details>
-
-<details open>
-<summary><b>Backend & Database</b></summary>
-<br/>
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-</p>
-</details>
-
-<details open>
-<summary><b>Tools & Platforms</b></summary>
-<br/>
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-</p>
-</details>
+<div align="center">
+  <a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /></a>
+  <a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /></a>
+  <br />
+  <a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /></a>
+  <a href="https://expressjs.com/" target="_blank"><img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" /></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /></a>
+  <br />
+  <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /></a>
+  <a href="https://aws.amazon.com/" target="_blank"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" /></a>
+</div>
 
 ---
 
 ### 🔥 Featured Projects
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Aura UI Framework</h3>
-      <div align="center">
-        <a href="https://github.com/wajihacodeofficial" target="_blank">
-          <img src="https://img.shields.io/badge/Status-In%20Development-blue" alt="Status" />
-        </a>
-      </div>
-      <p>A modern, lightweight CSS-in-JS library for React, designed for developers prioritizing performance, developer experience, and beautiful defaults.</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Medify</h3>
-      <div align="center">
-        <a href="https://github.com/wajihacodeofficial/medify" target="_blank">
-          <img src="https://img.shields.io/badge/Status-Live-success" alt="Status" />
-        </a>
-      </div>
-      <p>A full-stack medical management application built with Next.js, PostgreSQL, and Google Gemini API for AI chat support, streamlining appointments and records.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Rabta</h3>
-      <div align="center">
-        <a href="https://github.com/wajihacodeofficial/rabta" target="_blank">
-          <img src="https://img.shields.io/badge/Status-In%20Development-blue" alt="Status" />
-        </a>
-      </div>
-      <p>A high-performance messaging application designed as a complete alternative to WhatsApp, featuring a clean structure and modern protocols.</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Atmos Weather Dashboard</h3>
-      <div align="center">
-        <a href="https://github.com/wajihacodeofficial/atmos-weather" target="_blank">
-          <img src="https://img.shields.io/badge/Status-Live-success" alt="Status" />
-        </a>
-      </div>
-      <p>A real-time weather dashboard utilizing OpenWeatherMap API, presenting live meteorological data with stunning visuals and comprehensive forecasting.</p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://github.com/wajihacodeofficial/RapidWave-Software-Web">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wajihacodeofficial&repo=RapidWave-Software-Web&theme=radical&bg_color=1F222E&border_color=E4B5CA&hide_border=false" alt="RapidWave Software Web" />
+  </a>
+  <a href="https://github.com/wajihacodeofficial/Medify-WebApp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wajihacodeofficial&repo=Medify-WebApp&theme=synthwave&bg_color=2B213A&border_color=E13E77&hide_border=false" alt="Medify WebApp" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <a href="https://github.com/wajihacodeofficial/BiteDash">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wajihacodeofficial&repo=BiteDash&theme=dracula&bg_color=282A36&border_color=FF79C6&hide_border=false" alt="BiteDash" />
+  </a>
+  <a href="https://github.com/wajihacodeofficial/Wajiha-Zehra-Portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wajihacodeofficial&repo=Wajiha-Zehra-Portfolio&theme=react&bg_color=20232A&border_color=61DAFB&hide_border=false" alt="Wajiha Zehra Portfolio" />
+  </a>
+</div>
 
 ---
 
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wajihacodeofficial&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&ring_color=3B82F6&title_color=3B82F6&text_color=C9D1D9&icon_color=3B82F6" alt="Wajiha's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=wajihacodeofficial&show_icons=true&theme=radical&hide_border=false&bg_color=1F222E&border_color=E4B5CA" alt="Wajiha's GitHub Stats" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wajihacodeofficial&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="Wajiha's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wajihacodeofficial&theme=radical&hide_border=false&background=1F222E&border=E4B5CA" alt="Wajiha's GitHub Streak" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wajihacodeofficial&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wajihacodeofficial&layout=compact&theme=synthwave&hide_border=false&bg_color=2B213A&border_color=E13E77" alt="Top Languages" />
 </div>
 
 ---
@@ -153,7 +113,7 @@ I'm a **Software Engineer** with a strong passion for Frontend development and b
 
 <div align="center">
   <p>Visitor Count</p>
-  <img src="https://komarev.com/ghpvc/?username=wajihacodeofficial&label=Profile%20Views&color=3B82F6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=wajihacodeofficial&label=Profile%20Views&color=F52271&style=for-the-badge" alt="Profile Views" />
 </div>
 
 <div align="center">
