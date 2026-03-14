@@ -49,6 +49,15 @@ I'm a **Software Engineer** with a strong passion for Frontend development and b
 
 ---
 
+### � What I Do
+
+- �💻 **Full Stack Development**: Building responsive, scalable web applications from scratch, matching pixel-perfect designs.
+- 🎨 **UI/UX Engineering**: Crafting engaging, accessible, and inclusive user experiences using modern frameworks like React and Next.js.
+- 🚀 **Backend Architectures**: Designing robust APIs and database structures using Node.js, Express, and PostgreSQL/MongoDB.
+- 🤝 **Open Source**: Actively contributing to the developer community and exploring new implementations.
+
+---
+
 ### 💻 Tech Stack & Tools
 
 <div align="center">
@@ -94,6 +103,14 @@ I'm a **Software Engineer** with a strong passion for Frontend development and b
 
 ---
 
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=wajihacodeofficial&theme=radical&margin-w=15&margin-h=15&no-frame=true&column=7" alt="Wajiha's Trophies" />
+</div>
+
+---
+
 ### 📊 GitHub Analytics
 
 <div align="center">
@@ -127,11 +144,17 @@ I'm a **Software Engineer** with a strong passion for Frontend development and b
 ---
 
 <div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Programming Quote" />
+</div>
+
+<br />
+
+<div align="center">
   <p>Visitor Count</p>
   <img src="https://komarev.com/ghpvc/?username=wajihacodeofficial&label=Profile%20Views&color=F52271&style=for-the-badge" alt="Profile Views" />
 </div>
 
 <div align="center">
   <br />
-  <i>Thank you for visiting my profile! Let's connect and build something amazing together.</i>
+  <i>Thank you for visiting my profile! Let's connect and build something amazing together. 🚀</i>
 </div>
