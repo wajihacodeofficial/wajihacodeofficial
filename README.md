@@ -149,6 +149,14 @@ I'm a **Software Engineer** with a strong passion for Frontend development and b
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wajihacodeofficial&layout=compact&theme=synthwave&hide_border=false&bg_color=2B213A&border_color=E13E77" alt="Top Languages" />
 </div>
 
+### 🏅 GitHub Achievements
+
+<div align="center">
+  <img src="https://github.com/Schweinepriester/github-profile-achievements/blob/main/images/pull-shark-default.png?raw=true" alt="Pull Shark Badge" width="130" />
+  <img src="https://github.com/Schweinepriester/github-profile-achievements/blob/main/images/yolo-default.png?raw=true" alt="YOLO Badge" width="130" />
+  <img src="https://github.com/Schweinepriester/github-profile-achievements/blob/main/images/quickdraw-default.png?raw=true" alt="Quickdraw Badge" width="130" />
+</div>
+
 ---
 
 ### 🐍 Contribution Graph
