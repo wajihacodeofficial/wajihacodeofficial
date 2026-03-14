@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Wajiha%20Zehra&fontSize=90&animation=fadeIn&fontAlignY=32&desc=Fullstack%20Developer%20%7C%20Frontend%20Focused%20%7C%20React%20Specialist&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Wajiha%20Zehra&fontSize=90&animation=twinkling&fontAlignY=32&desc=Fullstack%20Developer%20%7C%20Frontend%20Focused%20%7C%20React%20Specialist&descAlignY=60" />
 </div>
 
 <div align="center">
@@ -14,6 +14,9 @@
   </a>
   <a href="https://www.instagram.com/wajihacodeofficial/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://api.whatsapp.com/send/?phone=923177760506&text&type=phone_number&app_absent=0" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
   <a href="https://www.upwork.com/freelancers/~01d8d7f6eb3f8fd735" target="_blank">
     <img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" />
@@ -39,6 +42,8 @@
 
 ### 🚀 About Me
 
+<img align="right" alt="💻 Wajiha Coding GIF" width="350" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" />
+
 I'm a **Software Engineer** with a strong passion for Frontend development and building scalable, high-performance web applications. I thrive on crafting beautiful, pixel-perfect user interfaces and solving complex engineering challenges with modern tech stacks.
 
 - 🔭 I’m currently building **Full-Stack Web Applications** using Next.js & MERN.
@@ -46,6 +51,8 @@ I'm a **Software Engineer** with a strong passion for Frontend development and b
 - 👯 I’m looking to collaborate on **Open Source React Projects**
 - 💬 Ask me about **React, Next.js, TypeScript, and UI/UX**
 - ⚡ Fun fact: When I'm not coding, I'm probably exploring new design trends!
+
+<br clear="both" />
 
 ---
 
