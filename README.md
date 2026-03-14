@@ -113,6 +113,19 @@ I'm a **Software Engineer** with a strong passion for Frontend development and b
 ### 🏆 GitHub Profile Summary
 
 <div align="center">
+  <a href="https://github.com/wajihacodeofficial?tab=followers" target="_blank">
+    <img src="https://img.shields.io/github/followers/wajihacodeofficial?style=for-the-badge&logo=github&color=3B82F6&label=Followers" alt="Followers" />
+  </a>
+  <a href="https://github.com/wajihacodeofficial?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/wajihacodeofficial&query=public_repos&label=Repositories&style=for-the-badge&color=F52271&logo=github" alt="Repositories" />
+  </a>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/wajihacodeofficial&query=type&label=Account_Type&style=for-the-badge&color=E13E77&logo=github" alt="Type" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/wajihacodeofficial&query=id&label=GitHub_ID&style=for-the-badge&color=E4B5CA&logo=github" alt="ID" />
+</div>
+
+<br />
+
+<div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wajihacodeofficial&theme=radical" alt="Wajiha's Profile Summary" />
 </div>
 
