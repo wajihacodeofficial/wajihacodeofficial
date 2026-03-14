@@ -42,7 +42,7 @@
 
 ### 🚀 About Me
 
-<img align="right" alt="💻 Wajiha Coding GIF" width="350" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" />
+<img align="right" alt="💻 Wajiha Coding GIF" width="350" src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" />
 
 I'm a **Software Engineer** with a strong passion for Frontend development and building scalable, high-performance web applications. I thrive on crafting beautiful, pixel-perfect user interfaces and solving complex engineering challenges with modern tech stacks.
 
@@ -56,9 +56,9 @@ I'm a **Software Engineer** with a strong passion for Frontend development and b
 
 ---
 
-### � What I Do
+### 💼 What I Do
 
-- �💻 **Full Stack Development**: Building responsive, scalable web applications from scratch, matching pixel-perfect designs.
+- 💻 **Full Stack Development**: Building responsive, scalable web applications from scratch, matching pixel-perfect designs.
 - 🎨 **UI/UX Engineering**: Crafting engaging, accessible, and inclusive user experiences using modern frameworks like React and Next.js.
 - 🚀 **Backend Architectures**: Designing robust APIs and database structures using Node.js, Express, and PostgreSQL/MongoDB.
 - 🤝 **Open Source**: Actively contributing to the developer community and exploring new implementations.
@@ -110,10 +110,10 @@ I'm a **Software Engineer** with a strong passion for Frontend development and b
 
 ---
 
-### 🏆 GitHub Trophies
+### 🏆 GitHub Profile Summary
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=wajihacodeofficial&theme=radical&margin-w=15&margin-h=15&no-frame=true&column=7" alt="Wajiha's Trophies" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wajihacodeofficial&theme=radical" alt="Wajiha's Profile Summary" />
 </div>
 
 ---
