@@ -1,5 +1,5 @@
 <div align="center">
-  <video src="hero.mp4" width="100%" autoplay loop muted playsinline style="border-radius: 20px; border: 2px solid #F52271; margin-bottom: 20px;"></video>
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=300&section=header&text=WAJIHA%20ZEHRA&fontSize=80&animation=fadeIn&fontAlignY=38&desc=3D%20Frontend%20Architect%20%7C%20Creative%20Engineer%20%7C%20Next.js%20Master&descAlignY=62&descSize=25" />
 </div>
 
 <div align="center">
