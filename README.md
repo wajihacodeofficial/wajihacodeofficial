@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Wajiha%20Zehra&fontSize=90&animation=twinkling&fontAlignY=32&desc=Fullstack%20Developer%20%7C%20Frontend%20Focused%20%7C%20React%20Specialist&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=300&section=header&text=WAJIHA%20ZEHRA&fontSize=80&animation=fadeIn&fontAlignY=38&desc=3D%20Frontend%20Architect%20%7C%20Creative%20Engineer%20%7C%20Next.js%20Master&descAlignY=62&descSize=25" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&pause=1000&color=6EE7B7&center=true&vCenter=true&width=600&lines=CREATIVE+SOFTWARE+ENGINEER;3D+WEB+EXPERIENCES;NEXT.JS+ARCHITECTURE;GSAP+%26+FRAMER+MOTION;BUILDING+THE+FUTURE+WEB" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -7,159 +11,104 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/wajihacodeofficial" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.facebook.com/wajihacodeofficial" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="https://www.instagram.com/wajihacodeofficial/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://api.whatsapp.com/send/?phone=923177760506&text&type=phone_number&app_absent=0" target="_blank">
+  <a href="https://api.whatsapp.com/send/?phone=923177760506" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
   <a href="https://www.upwork.com/freelancers/~01d8d7f6eb3f8fd735" target="_blank">
-    <img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" />
+    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" />
   </a>
-  <a href="https://www.fiverr.com/wajihacode" target="_blank">
-    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" />
-  </a>
-  <a href="https://www.freelancer.pk/u/wajihacode" target="_blank">
-    <img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white" alt="Freelancer" />
-  </a>
-  <a href="mailto:wajihazehra@example.com" target="_blank">
+  <a href="mailto:wajihacodeofficial@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 
-<br />
+<br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F52271&center=true&vCenter=true&width=600&lines=Frontend-focused+Fullstack+Developer;Building+Scalable+Web+Apps;Mastering+System+Design;Modern+Web+Experiences;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="100" />
+</div>
+
+<table align="center">
+  <tr>
+    <td width="60%">
+      <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20Places/Milky%20Way.png" width="35" /> Decoding the Digital Galaxy</h3>
+      <p>I am a <b>CREATIVE SOFTWARE ENGINEER</b> with an obsession for building elite-level web experiences. I specialize in merging advanced geometry, smooth animations, and robust system design to create digital masterpieces that leave a lasting impression.</p>
+      <ul>
+        <li>🧬 Expert in <b>3D Web Development</b> using <b>Three.js</b> and <b>GLSL</b>.</li>
+        <li>✨ Master of <b>GSAP</b>, <b>Framer Motion</b>, and <b>Lenis</b> for high-end UX.</li>
+        <li>🛠️ Architect of scalable <b>Next.js</b> and <b>Full-Stack</b> ecosystems.</li>
+        <li>🌍 Open to <b>remote-first opportunities</b> and <b>creative collaborations</b>.</li>
+      </ul>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Medium-Light%20Skin%20Tone.png" width="250" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="35" /> Arsenal & Core Tech
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,mongodb,postgresql,tailwind,figma,vite,git,docker,aws,threejs,gsap,framer" />
+</div>
+
+<br/>
+
+---
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crystal%20Ball.png" width="35" /> Digital Masterpieces (Featured Repos)
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/wajihacodeofficial/Code-Vertex-Website">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=wajihacodeofficial&repo=Code-Vertex-Website&theme=vision-friendly-dark&bg_color=0D1117&border_color=6EE7B7&hide_border=false" width="400" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/wajihacodeofficial/Medify-WebApp">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=wajihacodeofficial&repo=Medify-WebApp&theme=vision-friendly-dark&bg_color=0D1117&border_color=3B82F6&hide_border=false" width="400" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/wajihacodeofficial/BiteDash">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=wajihacodeofficial&repo=BiteDash&theme=vision-friendly-dark&bg_color=0D1117&border_color=F52271&hide_border=false" width="400" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/wajihacodeofficial/TaskManager-WebApp">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=wajihacodeofficial&repo=TaskManager-WebApp&theme=vision-friendly-dark&bg_color=0D1117&border_color=F7DF1E&hide_border=false" width="400" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-### 🚀 About Me
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="35" /> Vital Signs (GitHub Pulse)
 
-<img align="right" alt="💻 Wajiha Coding GIF" width="350" src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wajihacodeofficial&show_icons=true&theme=vision-friendly-dark&hide_border=false&bg_color=0D1117&border_color=6EE7B7" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wajihacodeofficial&layout=compact&theme=vision-friendly-dark&hide_border=false&bg_color=0D1117&border_color=3B82F6" width="48%" />
+</div>
 
-I'm a **Software Engineer** with a strong passion for Frontend development and building scalable, high-performance web applications. I thrive on crafting beautiful, pixel-perfect user interfaces and solving complex engineering challenges with modern tech stacks.
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wajihacodeofficial&theme=vision-friendly-dark&hide_border=false&background=0D1117&border=F52271" width="98%" />
+</div>
 
-- 🔭 I’m currently building **Full-Stack Web Applications** using Next.js & MERN.
-- 🌱 I’m currently learning **Advanced Backend Patterns & System Design**
-- 👯 I’m looking to collaborate on **Open Source React Projects**
-- 💬 Ask me about **React, Next.js, TypeScript, and UI/UX**
-- ⚡ Fun fact: When I'm not coding, I'm probably exploring new design trends!
-
-<br clear="both" />
+<br/>
 
 ---
 
-### 💼 What I Do
-
-- 💻 **Full Stack Development**: Building responsive, scalable web applications from scratch, matching pixel-perfect designs.
-- 🎨 **UI/UX Engineering**: Crafting engaging, accessible, and inclusive user experiences using modern frameworks like React and Next.js.
-- 🚀 **Backend Architectures**: Designing robust APIs and database structures using Node.js, Express, and PostgreSQL/MongoDB.
-- 🤝 **Open Source**: Actively contributing to the developer community and exploring new implementations.
-
----
-
-### 💻 Tech Stack & Tools
-
-<div align="center">
-  <a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /></a>
-  <a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" /></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /></a>
-  <br />
-  <a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /></a>
-  <a href="https://expressjs.com/" target="_blank"><img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" /></a>
-  <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /></a>
-  <br />
-  <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /></a>
-  <a href="https://aws.amazon.com/" target="_blank"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" /></a>
-</div>
-
----
-
-### 🔥 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/wajihacodeofficial/RapidWave-Software-Web">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wajihacodeofficial&repo=RapidWave-Software-Web&theme=radical&bg_color=1F222E&border_color=E4B5CA&hide_border=false" alt="RapidWave Software Web" />
-  </a>
-  <a href="https://github.com/wajihacodeofficial/Medify-WebApp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wajihacodeofficial&repo=Medify-WebApp&theme=synthwave&bg_color=2B213A&border_color=E13E77&hide_border=false" alt="Medify WebApp" />
-  </a>
-</div>
-
-<br />
-
-<div align="center">
-  <a href="https://github.com/wajihacodeofficial/BiteDash">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wajihacodeofficial&repo=BiteDash&theme=dracula&bg_color=282A36&border_color=FF79C6&hide_border=false" alt="BiteDash" />
-  </a>
-  <a href="https://github.com/wajihacodeofficial/Wajiha-Zehra-Portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wajihacodeofficial&repo=Wajiha-Zehra-Portfolio&theme=react&bg_color=20232A&border_color=61DAFB&hide_border=false" alt="Wajiha Zehra Portfolio" />
-  </a>
-</div>
-
----
-
-### 🏆 GitHub Profile Summary
-
-<div align="center">
-  <a href="https://github.com/wajihacodeofficial?tab=followers" target="_blank">
-    <img src="https://img.shields.io/github/followers/wajihacodeofficial?style=for-the-badge&logo=github&color=3B82F6&label=Followers" alt="Followers" />
-  </a>
-  <a href="https://github.com/wajihacodeofficial?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/wajihacodeofficial&query=public_repos&label=Repositories&style=for-the-badge&color=F52271&logo=github" alt="Repositories" />
-  </a>
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/wajihacodeofficial&query=type&label=Account_Type&style=for-the-badge&color=E13E77&logo=github" alt="Type" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/wajihacodeofficial&query=id&label=GitHub_ID&style=for-the-badge&color=E4B5CA&logo=github" alt="ID" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wajihacodeofficial&theme=radical" alt="Wajiha's Profile Summary" />
-</div>
-
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wajihacodeofficial&show_icons=true&theme=radical&hide_border=false&bg_color=1F222E&border_color=E4B5CA" alt="Wajiha's GitHub Stats" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wajihacodeofficial&theme=radical&hide_border=false&background=1F222E&border=E4B5CA" alt="Wajiha's GitHub Streak" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wajihacodeofficial&layout=compact&theme=synthwave&hide_border=false&bg_color=2B213A&border_color=E13E77" alt="Top Languages" />
-</div>
-
-### 🏅 GitHub Achievements
-
-<div align="center">
-  <img src="https://github.com/Schweinepriester/github-profile-achievements/blob/main/images/pull-shark-default.png?raw=true" alt="Pull Shark Badge" width="130" />
-  <img src="https://github.com/Schweinepriester/github-profile-achievements/blob/main/images/yolo-default.png?raw=true" alt="YOLO Badge" width="130" />
-  <img src="https://github.com/Schweinepriester/github-profile-achievements/blob/main/images/quickdraw-default.png?raw=true" alt="Quickdraw Badge" width="130" />
-</div>
-
----
-
-### 🐍 Contribution Graph
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="35" /> Contributions Maze
 
 <div align="center">
   <picture>
@@ -172,17 +121,22 @@ I'm a **Software Engineer** with a strong passion for Frontend development and b
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Programming Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" width="100%" />
 </div>
 
-<br />
+<br/>
 
 <div align="center">
-  <p>Visitor Count</p>
-  <img src="https://komarev.com/ghpvc/?username=wajihacodeofficial&label=Profile%20Views&color=F52271&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=wajihacodeofficial&label=MISSION%20PROGRESS&color=6EE7B7&style=for-the-badge" />
 </div>
 
 <div align="center">
   <br />
-  <i>Thank you for visiting my profile! Let's connect and build something amazing together. 🚀</i>
+  <i>Connecting Vision with High-Performance Reality.</i>
+  <br />
+  <b>Thank you for visiting my profile! Let's build something extraordinary. 🚀</b>
+  <br />
+  <br />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Rocket.png" width="100" />
 </div>
+
