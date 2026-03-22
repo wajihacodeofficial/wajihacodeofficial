@@ -1,13 +1,13 @@
 <div align="center">
-  <img src="assets/header_capsule.svg" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=random&height=200&section=header&text=WAJIHA%20ZEHRA&fontSize=70&animation=fadeIn&fontAlignY=35&desc=CREATIVE%20SOFTWARE%20ENGINEER&descAlignY=55&descAlign=50&theme=dracula" />
 </div>
 
 <div align="center">
-  <img src="assets/header_typing.svg" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F52271;0ce8e8;ff9ff3&center=true&vCenter=true&width=600&lines=Building+Award-Winning+Web+Experiences;Mastering+3D+Geometry+%26+GSAP;Digital+Masterpieces+in+the+Making;Connecting+Vision+with+High-Performance+Reality" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/wajihazehra/" target="_blank">
+  <a href="https://www.linkedin.com/in/wajihacodeofficial/" target="_blank">
     <img src="assets/badge_LinkedIn.svg" alt="LinkedIn" />
   </a>
   <a href="https://github.com/wajihacodeofficial" target="_blank">
@@ -22,10 +22,10 @@
   <a href="mailto:wajihacodeofficial@gmail.com" target="_blank">
     <img src="assets/badge_Email.svg" alt="Email" />
   </a>
-  <a href="https://www.instagram.com/wajihazehra/" target="_blank">
+  <a href="https://www.instagram.com/wajihacodeofficial/" target="_blank">
     <img src="assets/badge_Instagram.svg" alt="Instagram" />
   </a>
-  <a href="https://www.facebook.com/wajihazehra" target="_blank">
+  <a href="https://www.facebook.com/wajihacodeofficial" target="_blank">
     <img src="assets/badge_Facebook.svg" alt="Facebook" />
   </a>
   <a href="https://www.fiverr.com/wajihacode" target="_blank">
