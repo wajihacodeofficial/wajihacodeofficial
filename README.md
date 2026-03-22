@@ -97,7 +97,7 @@
 ### <img src="assets/emoji_Rocket.png" width="35" /> 3D Contribution Matrix
 
 <div align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=wajihacodeofficial&theme=dark" width="100%" alt="3D Contribution Matrix" />
+  <img src="assets/3d_matrix.svg" width="100%" alt="3D Girly Tech Matrix" />
 </div>
 
 ---
