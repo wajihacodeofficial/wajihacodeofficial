@@ -29,7 +29,7 @@
 <table align="center">
   <tr>
     <td width="55%">
-      <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20Places/Glowing%20Star.png" width="35" /> Decoding the Digital Frontier</h3>
+      <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="35" /> Decoding the Digital Frontier</h3>
       <p>I am a <b>CREATIVE SOFTWARE ENGINEER</b> with an obsession for building elite-level web experiences. I specialize in merging advanced geometry, smooth animations, and robust system design to create digital masterpieces that leave a lasting impression.</p>
       <ul>
         <li>🧬 Expert in <b>3D Web Development</b> using <b>Three.js</b> and <b>GLSL</b>.</li>
@@ -39,7 +39,7 @@
       </ul>
     </td>
     <td width="45%" align="center">
-      <video src="hero.mp4" width="300" autoplay loop muted playsinline style="border-radius: 20px; border: 3px solid #F52271;"></video>
+      <img src="https://github.com/wajihacodeofficial/wajihacodeofficial/blob/main/hero.mp4?raw=true" width="300" style="border-radius: 20px; border: 3px solid #F52271;" />
     </td>
   </tr>
 </table>
@@ -56,7 +56,7 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crystal%20Ball.png" width="35" /> Digital Masterpieces (Featured Repos)
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Crystal%20Ball.png" width="35" /> Digital Masterpieces (Featured Repos)
 
 <div align="center">
   <table>
@@ -89,7 +89,7 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="35" /> Vital Signs (GitHub Pulse)
+### <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/55e1dceff489121c3f7c7a7ec4f4d401d2cbd53e/Emojis/Travel%20and%20places/Roller%20Coaster.png" width="35" /> Vital Signs (GitHub Pulse)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wajihacodeofficial&show_icons=true&theme=vision-friendly-dark&hide_border=false&bg_color=0D1117&border_color=6EE7B7" width="49%" />
@@ -104,7 +104,7 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bubbles.png" width="35" /> Contribution Bubbles
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" width="35" /> Contribution Bubbles
 
 <div align="center">
   <img src="contribution-bubbles.svg" alt="Contribution Bubbles Animation" width="100%" />
@@ -129,6 +129,5 @@
   <b>Thank you for visiting my profile! Let's build something extraordinary. 🚀</b>
   <br />
   <br />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Rocket.png" width="100" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="100" />
 </div>
-
