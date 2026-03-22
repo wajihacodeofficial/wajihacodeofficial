@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=300&section=header&text=WAJIHA%20ZEHRA&fontSize=80&animation=fadeIn&fontAlignY=38&desc=3D%20Frontend%20Architect%20%7C%20Creative%20Engineer%20%7C%20Next.js%20Master&descAlignY=62&descSize=25" />
+  <video src="hero.mp4" width="100%" autoplay loop muted playsinline style="border-radius: 20px; border: 2px solid #F52271; margin-bottom: 20px;"></video>
 </div>
 
 <div align="center">
@@ -25,10 +25,6 @@
 </div>
 
 <br/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20with%20Headscarf.png" alt="Hijabi" width="100" />
-</div>
 
 <table align="center">
   <tr>
@@ -83,8 +79,8 @@
         </a>
       </td>
       <td>
-        <a href="https://github.com/wajihacodeofficial/Code-Vertex-Website">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=wajihacodeofficial&repo=Code-Vertex-Website&theme=vision-friendly-dark&bg_color=0D1117&border_color=F7DF1E&hide_border=false" width="400" />
+        <a href="https://github.com/wajihacodeofficial/StockPro">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=wajihacodeofficial&repo=StockPro&theme=vision-friendly-dark&bg_color=0D1117&border_color=F7DF1E&hide_border=false" width="400" />
         </a>
       </td>
     </tr>
