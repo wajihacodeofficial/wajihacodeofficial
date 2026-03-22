@@ -70,12 +70,12 @@
 <div align="center">
   <table width="100%" cellspacing="0" cellpadding="0">
     <tr>
-      <td width="50%"><a href="https://github.com/wajihacodeofficial/PakChat"><img src="assets/repo_PakChat.svg" width="100%" /></a></td>
-      <td width="50%"><a href="https://github.com/wajihacodeofficial/Medify-WebApp"><img src="assets/repo_Medify-WebApp.svg" width="100%" /></a></td>
+      <td width="50%"><a href="https://github.com/wajihacodeofficial/PakChat"><img src="assets/repo_PakChat.svg" width="100%" height="170" /></a></td>
+      <td width="50%"><a href="https://github.com/wajihacodeofficial/Medify-WebApp"><img src="assets/repo_Medify-WebApp.svg" width="100%" height="170" /></a></td>
     </tr>
     <tr>
-      <td width="50%"><a href="https://github.com/wajihacodeofficial/BiteDash"><img src="assets/repo_BiteDash.svg" width="100%" /></a></td>
-      <td width="50%"><a href="https://github.com/wajihacodeofficial/Stock-Pro"><img src="assets/repo_Stock-Pro.svg" width="100%" /></a></td>
+      <td width="50%"><a href="https://github.com/wajihacodeofficial/BiteDash"><img src="assets/repo_BiteDash.svg" width="100%" height="170" /></a></td>
+      <td width="50%"><a href="https://github.com/wajihacodeofficial/Stock-Pro"><img src="assets/repo_Stock-Pro.svg" width="100%" height="170" /></a></td>
     </tr>
   </table>
 </div>
