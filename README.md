@@ -68,16 +68,12 @@
 ### <img src="assets/emoji_Crystal_Ball.png" width="35" /> Digital Masterpieces (Featured Repos)
 
 <div align="center">
-  <table width="100%" cellspacing="0" cellpadding="0">
-    <tr>
-      <td width="50%"><a href="https://github.com/wajihacodeofficial/PakChat"><img src="assets/repo_PakChat.svg" width="100%" height="170" /></a></td>
-      <td width="50%"><a href="https://github.com/wajihacodeofficial/Medify-WebApp"><img src="assets/repo_Medify-WebApp.svg" width="100%" height="170" /></a></td>
-    </tr>
-    <tr>
-      <td width="50%"><a href="https://github.com/wajihacodeofficial/BiteDash"><img src="assets/repo_BiteDash.svg" width="100%" height="170" /></a></td>
-      <td width="50%"><a href="https://github.com/wajihacodeofficial/Stock-Pro"><img src="assets/repo_Stock-Pro.svg" width="100%" height="170" /></a></td>
-    </tr>
-  </table>
+  <a href="https://github.com/wajihacodeofficial/PakChat"><img src="assets/repo_PakChat.svg" width="49%" /></a>
+  <a href="https://github.com/wajihacodeofficial/Medify-WebApp"><img src="assets/repo_Medify-WebApp.svg" width="49%" /></a>
+</div>
+<div align="center">
+  <a href="https://github.com/wajihacodeofficial/BiteDash"><img src="assets/repo_BiteDash.svg" width="49%" /></a>
+  <a href="https://github.com/wajihacodeofficial/Stock-Pro"><img src="assets/repo_Stock-Pro.svg" width="49%" /></a>
 </div>
 
 <br/>
@@ -87,15 +83,11 @@
 ### <img src="assets/emoji_High_Voltage.png" width="35" /> Vital Signs (GitHub Pulse)
 
 <div align="center">
-  <table width="100%" cellspacing="0" cellpadding="0">
-    <tr>
-      <td width="50%"><img src="assets/stats_general.svg" width="100%" /></td>
-      <td width="50%"><img src="assets/stats_langs.svg" width="100%" /></td>
-    </tr>
-    <tr>
-      <td colspan="2"><img src="assets/stats_streak.svg" width="100%" /></td>
-    </tr>
-  </table>
+  <img src="assets/stats_general.svg" width="49%" />
+  <img src="assets/stats_langs.svg" width="49%" />
+</div>
+<div align="center">
+  <img src="assets/stats_streak.svg" width="98.5%" />
 </div>
 
 <br/>
