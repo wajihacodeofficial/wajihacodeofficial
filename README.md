@@ -48,7 +48,7 @@
       </ul>
     </td>
     <td width="45%" align="center">
-      <video src="hero.mp4" width="300" autoplay loop muted style="border-radius: 20px; border: 3px solid #F52271;"></video>
+      <video src="https://raw.githubusercontent.com/wajihacodeofficial/wajihacodeofficial/main/hero.mp4" width="300" autoplay loop muted style="border-radius: 20px; border: 3px solid #F52271;"></video>
     </td>
   </tr>
 </table>
@@ -72,51 +72,38 @@
     <tr>
       <td>
         <a href="https://github.com/wajihacodeofficial/PakChat">
-          <img src="assets/stats_main.svg" width="400" />
+          <img src="https://raw.githubusercontent.com/wajihacodeofficial/wajihacodeofficial/main/assets/repo_PakChat.svg" width="400" />
         </a>
       </td>
       <td>
         <a href="https://github.com/wajihacodeofficial/Medify-WebApp">
-          <img src="assets/stats_main.svg" width="400" />
+          <img src="https://raw.githubusercontent.com/wajihacodeofficial/wajihacodeofficial/main/assets/repo_Medify-WebApp.svg" width="400" />
         </a>
       </td>
     </tr>
     <tr>
       <td>
         <a href="https://github.com/wajihacodeofficial/BiteDash">
-          <img src="assets/stats_main.svg" width="400" />
+          <img src="https://raw.githubusercontent.com/wajihacodeofficial/wajihacodeofficial/main/assets/repo_BiteDash.svg" width="400" />
         </a>
       </td>
       <td>
         <a href="https://github.com/wajihacodeofficial/Stock-Pro">
-          <img src="assets/stats_main.svg" width="400" />
+          <img src="https://raw.githubusercontent.com/wajihacodeofficial/wajihacodeofficial/main/assets/repo_Stock-Pro.svg" width="400" />
         </a>
       </td>
     </tr>
   </table>
 </div>
 
----
-
-### <img src="assets/emoji_High_Voltage.png" width="35" />Vital Signs (GitHub Pulse)
-
-<div align="center">
-  <img src="assets/stats_main.svg" height="195" />
-  <img src="assets/stats_langs.svg" height="195" />
-</div>
-
-<div align="center">
-  <img src="assets/stats_main.svg" width="98%" />
-</div>
-
 <br/>
 
 ---
 
-### <img src="assets/emoji_Sparkles.png" width="35" /> Blossom Grid Contributions
+### <img src="assets/emoji_High_Voltage.png" width="30" /> 3D Contribution Matrix
 
 <div align="center">
-  <img src="contribution-blossom.svg" width="100%" alt="Blossom Grid Contributions Animation" />
+  <img src="https://raw.githubusercontent.com/wajihacodeofficial/wajihacodeofficial/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Matrix" width="100%" />
 </div>
 
 ---
@@ -146,69 +133,62 @@
   </table>
 </div>
 
----
-
-### <img src="assets/emoji_Link.png" width="35" /> Life Tracker
-
-<div align="center">
-  <table>
-    <tr>
-      <td><img src="assets/emoji_Teacup_Without_Handle.png" width="25" /> <b>Tea Drinked:</b></td>
-      <td><code>21,900</code> cups.</td>
-    </tr>
-    <tr>
-      <td><img src="assets/emoji_Scroll.png" width="25" /> <b>Lines of Code Written:</b></td>
-      <td><code>547,500</code></td>
-    </tr>
-    <tr>
-      <td><img src="assets/emoji_Lady_Beetle.png" width="25" /> <b>Squashed Bugs:</b></td>
-      <td><code>3,750</code></td>
-    </tr>
-    <tr>
-      <td><img src="assets/emoji_Brain.png" width="25" /> <b>Thinking Time:</b></td>
-      <td><code>80,300</code> hours.</td>
-    </tr>
-    <tr>
-      <td><img src="assets/emoji_Eyes.png" width="25" /> <b>Total Views:</b></td>
-      <td><code>22,530</code></td>
-    </tr>
-    <tr>
-      <td><img src="assets/emoji_Robot.png" width="25" /> <b>Projects Completed:</b></td>
-      <td><code>20</code></td>
-    </tr>
-    <tr>
-      <td><img src="assets/emoji_Hourglass_Done.png" width="25" /> <b>Daily Working Hours:</b></td>
-      <td><code>~ 8 Hours</code></td>
-    </tr>
-  </table>
-</div>
-
----
-
-### <img src="assets/emoji_Sparkles.png" width="35" /> How I Spend My Free Time
-
-<div align="center">
-  <table>
-    <tr>
-      <td><img src="assets/emoji_Man_Technologist.png" width="25" /> <b>Coding</b></td>
-    </tr>
-    <tr>
-      <td><img src="assets/emoji_Rocket.png" width="25" /> <b>Open-source Contributions</b></td>
-    </tr>
-    <tr>
-      <td><img src="assets/emoji_Open_Book.png" width="25" /> <b>Reading Tech Blogs & Books</b></td>
-    </tr>
-    <tr>
-      <td><img src="assets/emoji_Bullseye.png" width="25" /> <b>Puzzle Solving / Algorithm Challenges</b></td>
-    </tr>
-    <tr>
-      <td><img src="assets/emoji_Light_Bulb.png" width="25" /> <b>Learning New Frameworks & Languages</b></td>
-    </tr>
-    <tr>
-      <td><img src="assets/emoji_Alien_Monster.png" width="25" /> <b>AI Experiments / Side Projects</b></td>
-    </tr>
-  </table>
-</div>
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h3><img src="assets/emoji_Link.png" width="30" /> Life Tracker</h3>
+      <table>
+        <tr>
+          <td><img src="assets/emoji_Teacup_Without_Handle.png" width="20" /> <b>Tea Drinked:</b></td>
+          <td><code>21,900</code> cups.</td>
+        </tr>
+        <tr>
+          <td><img src="assets/emoji_Scroll.png" width="20" /> <b>Lines of Code:</b></td>
+          <td><code>547,500</code></td>
+        </tr>
+        <tr>
+          <td><img src="assets/emoji_Lady_Beetle.png" width="20" /> <b>Squashed Bugs:</b></td>
+          <td><code>3,750</code></td>
+        </tr>
+        <tr>
+          <td><img src="assets/emoji_Brain.png" width="20" /> <b>Thinking Time:</b></td>
+          <td><code>80,300</code> hrs</td>
+        </tr>
+        <tr>
+          <td><img src="assets/emoji_Eyes.png" width="20" /> <b>Total Views:</b></td>
+          <td><code>22,530</code></td>
+        </tr>
+        <tr>
+          <td><img src="assets/emoji_Robot.png" width="20" /> <b>Projects:</b></td>
+          <td><code>20</code></td>
+        </tr>
+      </table>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h3><img src="assets/emoji_Sparkles.png" width="30" /> Free Time</h3>
+      <table>
+        <tr>
+          <td><img src="assets/emoji_Man_Technologist.png" width="20" /> <b>Coding</b></td>
+        </tr>
+        <tr>
+          <td><img src="assets/emoji_Rocket.png" width="20" /> <b>Open-source</b></td>
+        </tr>
+        <tr>
+          <td><img src="assets/emoji_Open_Book.png" width="20" /> <b>Tech Reading</b></td>
+        </tr>
+        <tr>
+          <td><img src="assets/emoji_Bullseye.png" width="20" /> <b>Puzzle Solving</b></td>
+        </tr>
+        <tr>
+          <td><img src="assets/emoji_Light_Bulb.png" width="20" /> <b>Learning</b></td>
+        </tr>
+        <tr>
+          <td><img src="assets/emoji_Alien_Monster.png" width="20" /> <b>AI Side Projects</b></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
 ---
 
