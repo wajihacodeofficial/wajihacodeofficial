@@ -39,7 +39,7 @@
       </ul>
     </td>
     <td width="45%" align="center">
-      <img src="https://github.com/wajihacodeofficial/wajihacodeofficial/blob/main/output/hijabi-coder.gif?raw=true" onerror="this.src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjA5ZjM2YjY5NmM2Yzc2OTYzNmY2ZTczMmU2NDY1ZmVhYzc3ZGM1NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1TVtoGMMfxMIEXY/giphy.gif'" width="300" style="border-radius: 20px; border: 3px solid #F52271;" />
+      <video src="hero.mp4" width="300" autoplay loop muted playsinline style="border-radius: 20px; border: 3px solid #F52271;"></video>
     </td>
   </tr>
 </table>
@@ -79,8 +79,8 @@
         </a>
       </td>
       <td>
-        <a href="https://github.com/wajihacodeofficial/StockPro">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=wajihacodeofficial&repo=StockPro&theme=vision-friendly-dark&bg_color=0D1117&border_color=F7DF1E&hide_border=false" width="400" />
+        <a href="https://github.com/wajihacodeofficial/Stock-Pro">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=wajihacodeofficial&repo=Stock-Pro&theme=vision-friendly-dark&bg_color=0D1117&border_color=F7DF1E&hide_border=false" width="400" />
         </a>
       </td>
     </tr>
@@ -104,14 +104,10 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="35" /> Contributions Maze
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bubbles.png" width="35" /> Contribution Bubbles
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wajihacodeofficial/wajihacodeofficial/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wajihacodeofficial/wajihacodeofficial/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/wajihacodeofficial/wajihacodeofficial/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="contribution-bubbles.svg" alt="Contribution Bubbles Animation" width="100%" />
 </div>
 
 ---
