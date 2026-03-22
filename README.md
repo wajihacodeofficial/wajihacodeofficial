@@ -113,6 +113,14 @@
 
 ---
 
+### <img src="assets/emoji_Sparkles.png" width="35" /> Blossom Grid Contributions
+
+<div align="center">
+  <img src="contribution-blossom.svg" width="100%" alt="Blossom Grid Contributions Animation" />
+</div>
+
+---
+
 ### <img src="assets/emoji_Star.png" width="35" /> GitHub Achievements
 
 <div align="center">
