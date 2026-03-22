@@ -28,7 +28,7 @@
   <a href="https://www.facebook.com/wajihazehra" target="_blank">
     <img src="assets/badge_Facebook.svg" alt="Facebook" />
   </a>
-  <a href="https://www.fiverr.com/wajihazehra" target="_blank">
+  <a href="https://www.fiverr.com/wajihacode" target="_blank">
     <img src="assets/badge_Fiverr.svg" alt="Fiverr" />
   </a>
 </div>
