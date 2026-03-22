@@ -94,10 +94,10 @@
 
 ---
 
-### <img src="assets/emoji_Rocket.png" width="35" /> 3D Contribution Matrix
+### ✨ Contribution Activity
 
 <div align="center">
-  <img src="assets/3d_matrix.svg" width="100%" alt="3D Girly Tech Matrix" />
+  <img src="assets/girly_snake.svg" width="100%" alt="Girly Snake Animation" />
 </div>
 
 ---
