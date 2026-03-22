@@ -65,39 +65,51 @@
 
 ---
 
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center"><img src="assets/emoji_Crystal_Ball.png" width="30" /> Featured Projects</h3>
-      <div align="center">
-        <table>
-          <tr>
-            <td><a href="https://github.com/wajihacodeofficial/PakChat"><img src="assets/repo_PakChat.svg" width="300" /></a></td>
-            <td><a href="https://github.com/wajihacodeofficial/Medify-WebApp"><img src="assets/repo_Medify-WebApp.svg" width="300" /></a></td>
-          </tr>
-          <tr>
-            <td><a href="https://github.com/wajihacodeofficial/BiteDash"><img src="assets/repo_BiteDash.svg" width="300" /></a></td>
-            <td><a href="https://github.com/wajihacodeofficial/Stock-Pro"><img src="assets/repo_Stock-Pro.svg" width="300" /></a></td>
-          </tr>
-        </table>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center"><img src="assets/emoji_High_Voltage.png" width="30" /> Vital Signs</h3>
-      <div align="center">
-        <table width="100%">
-          <tr>
-            <td width="50%"><img src="assets/stats_general.svg" height="150" /></td>
-            <td width="50%"><img src="assets/stats_langs.svg" height="150" /></td>
-          </tr>
-          <tr>
-            <td colspan="2" align="center"><img src="assets/stats_streak.svg" width="100%" /></td>
-          </tr>
-        </table>
-      </div>
-    </td>
-  </tr>
-</table>
+### <img src="assets/emoji_Crystal_Ball.png" width="35" /> Digital Masterpieces (Featured Repos)
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/wajihacodeofficial/PakChat">
+          <img src="assets/repo_PakChat.svg" width="400" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/wajihacodeofficial/Medify-WebApp">
+          <img src="assets/repo_Medify-WebApp.svg" width="400" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/wajihacodeofficial/BiteDash">
+          <img src="assets/repo_BiteDash.svg" width="400" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/wajihacodeofficial/Stock-Pro">
+          <img src="assets/repo_Stock-Pro.svg" width="400" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+---
+
+### <img src="assets/emoji_High_Voltage.png" width="35" /> Vital Signs (GitHub Pulse)
+
+<div align="center">
+  <img src="assets/stats_general.svg" height="195" />
+  <img src="assets/stats_langs.svg" height="195" />
+</div>
+
+<div align="center">
+  <img src="assets/stats_streak.svg" width="98%" />
+</div>
 
 <br/>
 
