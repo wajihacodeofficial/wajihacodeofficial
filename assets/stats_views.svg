@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="185.00634765625" height="28" role="img" aria-label="MISSION PROGRESS: 171">
+	<title>MISSION PROGRESS: 171</title>
+	<g shape-rendering="crispEdges">
+		<rect width="140.50390625" height="28" fill="#555"/>
+		<rect x="140.50390625" width="44.50244140625" height="28" fill="#F52271"/>
+	</g>
+	<g fill="#fff" text-anchor="middle" text-rendering="geometricPrecision" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="10" letter-spacing="1.1">
+		<text x="71.3" y="17.5" fill="#fff">MISSION PROGRESS</text>
+		<text x="161.80390625" y="17.5" fill="#fff" font-weight="bold">171</text>
+	</g>
+</svg>

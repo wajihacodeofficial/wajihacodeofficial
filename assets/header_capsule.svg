@@ -1,0 +1,26 @@
+
+      <svg
+        width="854"
+        height="300"
+        viewBox="0 0 854 300"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <style>
+      .text {   font-size: 80px;   font-weight: 700;   font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;  } .desc {   font-size: 25px;   font-weight: 500;   font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;  } 
+      .text, .desc {   animation: fadeIn 1.2s ease-in-out forwards;  } @keyframes fadeIn {   from {     opacity: 0;   }   to {     opacity: 1;   }  } 
+    </style>
+        <svg
+          xmlns="http://www.w3.org/2000/svg"
+          viewBox="0 0 854 300"
+        >
+          <defs>
+              <linearGradient id="linear" x1="0%" y1="0%" x2="100%" y2="0%">
+                <stop offset="0%" stop-color="#1D976C"/><stop offset="100%" stop-color="#93F9B9"/>
+              </linearGradient>
+            </defs>
+          <path fill="url(#linear)"  fill-opacity="1" d="M 61 0 L 704 0 A 50 50 0 1 1 704 300 L 150 300 A 50 50 0 1 1 150 0 "></path>
+        </svg>
+         <text text-anchor="middle" alignment-baseline="middle" x="50%" y="38%" class="text" style="fill:#f7f5f5;" stroke="#none" stroke-width="1" >WAJIHA ZEHRA</text>
+        <text text-anchor="middle" alignment-baseline="middle" x="50%" y="62%" class="desc" style="fill:#f7f5f5;">3D Frontend Architect | Creative Engineer | Next.js Master</text>
+      </svg>
+    

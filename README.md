@@ -1,26 +1,35 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=300&section=header&text=WAJIHA%20ZEHRA&fontSize=80&animation=fadeIn&fontAlignY=38&desc=3D%20Frontend%20Architect%20%7C%20Creative%20Engineer%20%7C%20Next.js%20Master&descAlignY=62&descSize=25" />
+  <img src="assets/header_capsule.svg" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&pause=1000&color=F52271&center=true&vCenter=true&width=600&lines=ELITE+SOFTWARE+ENGINEER;3D+WEB+EXPERIENCES;NEXT.JS+ARCHITECTURE;GSAP+%26+FRAMER+MOTION;BUILDING+THE+FUTURE+WEB" alt="Typing SVG" />
+  <img src="assets/header_typing.svg" alt="Typing SVG" />
 </div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/wajihazehra/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="assets/badge_LinkedIn.svg" alt="LinkedIn" />
   </a>
   <a href="https://github.com/wajihacodeofficial" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="assets/badge_GitHub.svg" alt="GitHub" />
   </a>
   <a href="https://api.whatsapp.com/send/?phone=923177760506" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+    <img src="assets/badge_WhatsApp.svg" alt="WhatsApp" />
   </a>
   <a href="https://www.upwork.com/freelancers/~01d8d7f6eb3f8fd735" target="_blank">
-    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" />
+    <img src="assets/badge_Upwork.svg" alt="Upwork" />
   </a>
   <a href="mailto:wajihacodeofficial@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="assets/badge_Email.svg" alt="Email" />
+  </a>
+  <a href="https://www.instagram.com/wajihazehra/" target="_blank">
+    <img src="assets/badge_Instagram.svg" alt="Instagram" />
+  </a>
+  <a href="https://www.facebook.com/wajihazehra" target="_blank">
+    <img src="assets/badge_Facebook.svg" alt="Facebook" />
+  </a>
+  <a href="https://www.fiverr.com/wajihazehra" target="_blank">
+    <img src="assets/badge_Fiverr.svg" alt="Fiverr" />
   </a>
 </div>
 
@@ -29,7 +38,7 @@
 <table align="center">
   <tr>
     <td width="55%">
-      <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="35" /> Decoding the Digital Frontier</h3>
+      <h3><img src="assets/emoji_Glowing_Star.png" width="35" /> Decoding the Digital Frontier</h3>
       <p>I am a <b>CREATIVE SOFTWARE ENGINEER</b> with an obsession for building elite-level web experiences. I specialize in merging advanced geometry, smooth animations, and robust system design to create digital masterpieces that leave a lasting impression.</p>
       <ul>
         <li>🧬 Expert in <b>3D Web Development</b> using <b>Three.js</b> and <b>GLSL</b>.</li>
@@ -39,48 +48,48 @@
       </ul>
     </td>
     <td width="45%" align="center">
-      <img src="https://github.com/wajihacodeofficial/wajihacodeofficial/blob/main/hero.mp4?raw=true" width="300" style="border-radius: 20px; border: 3px solid #F52271;" />
+      <video src="hero.mp4" width="300" autoplay loop muted style="border-radius: 20px; border: 3px solid #F52271;"></video>
     </td>
   </tr>
 </table>
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="35" /> Arsenal & Core Tech
+### <img src="assets/emoji_Hammer_and_Wrench.png" width="35" /> Arsenal & Core Tech
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,mongodb,postgresql,tailwind,figma,vite,git,docker,aws,threejs,gsap,framer" />
+  <img src="assets/skill_icons.svg" />
 </div>
 
 <br/>
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Crystal%20Ball.png" width="35" /> Digital Masterpieces (Featured Repos)
+### <img src="assets/emoji_Crystal_Ball.png" width="35" /> Digital Masterpieces (Featured Repos)
 
 <div align="center">
   <table>
     <tr>
       <td>
         <a href="https://github.com/wajihacodeofficial/PakChat">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=wajihacodeofficial&repo=PakChat&theme=vision-friendly-dark&bg_color=0D1117&border_color=6EE7B7&hide_border=false" width="400" />
+          <img src="assets/stats_main.svg" width="400" />
         </a>
       </td>
       <td>
         <a href="https://github.com/wajihacodeofficial/Medify-WebApp">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=wajihacodeofficial&repo=Medify-WebApp&theme=vision-friendly-dark&bg_color=0D1117&border_color=3B82F6&hide_border=false" width="400" />
+          <img src="assets/stats_main.svg" width="400" />
         </a>
       </td>
     </tr>
     <tr>
       <td>
         <a href="https://github.com/wajihacodeofficial/BiteDash">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=wajihacodeofficial&repo=BiteDash&theme=vision-friendly-dark&bg_color=0D1117&border_color=F52271&hide_border=false" width="400" />
+          <img src="assets/stats_main.svg" width="400" />
         </a>
       </td>
       <td>
         <a href="https://github.com/wajihacodeofficial/Stock-Pro">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=wajihacodeofficial&repo=Stock-Pro&theme=vision-friendly-dark&bg_color=0D1117&border_color=F7DF1E&hide_border=false" width="400" />
+          <img src="assets/stats_main.svg" width="400" />
         </a>
       </td>
     </tr>
@@ -89,37 +98,120 @@
 
 ---
 
-### <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Bar%20Chart.png" width="35" /> Vital Signs (GitHub Pulse)
+### <img src="assets/emoji_High_Voltage.png" width="35" />Vital Signs (GitHub Pulse)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wajihacodeofficial&show_icons=true&theme=vision-friendly-dark&hide_border=false&bg_color=0D1117&border_color=6EE7B7" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wajihacodeofficial&layout=compact&theme=vision-friendly-dark&hide_border=false&bg_color=0D1117&border_color=3B82F6" width="48%" />
+  <img src="assets/stats_main.svg" height="195" />
+  <img src="assets/stats_langs.svg" height="195" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wajihacodeofficial&theme=vision-friendly-dark&hide_border=false&background=0D1117&border=F52271" width="98%" />
+  <img src="assets/stats_main.svg" width="98%" />
 </div>
 
 <br/>
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" width="35" /> Contribution Bubbles
+### <img src="assets/emoji_Star.png" width="35" /> GitHub Achievements
 
 <div align="center">
-  <img src="contribution-bubbles.svg" alt="Contribution Bubbles Animation" width="100%" />
+  <br/>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="assets/achievement_pull-shark-default.png" width="120" />
+        <br/>
+        <b>Pull Shark</b>
+      </td>
+      <td align="center">
+        <img src="assets/achievement_quickdraw-default.png" width="120" />
+        <br/>
+        <b>Quickdraw</b>
+      </td>
+      <td align="center">
+        <img src="assets/achievement_yolo-default.png" width="120" />
+        <br/>
+        <b>YOLO</b>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### <img src="assets/emoji_Link.png" width="35" /> Life Tracker
+
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="assets/emoji_Teacup_Without_Handle.png" width="25" /> <b>Tea Drinked:</b></td>
+      <td><code>21,900</code> cups.</td>
+    </tr>
+    <tr>
+      <td><img src="assets/emoji_Scroll.png" width="25" /> <b>Lines of Code Written:</b></td>
+      <td><code>547,500</code></td>
+    </tr>
+    <tr>
+      <td><img src="assets/emoji_Lady_Beetle.png" width="25" /> <b>Squashed Bugs:</b></td>
+      <td><code>3,750</code></td>
+    </tr>
+    <tr>
+      <td><img src="assets/emoji_Brain.png" width="25" /> <b>Thinking Time:</b></td>
+      <td><code>80,300</code> hours.</td>
+    </tr>
+    <tr>
+      <td><img src="assets/emoji_Eyes.png" width="25" /> <b>Total Views:</b></td>
+      <td><code>22,530</code></td>
+    </tr>
+    <tr>
+      <td><img src="assets/emoji_Robot.png" width="25" /> <b>Projects Completed:</b></td>
+      <td><code>20</code></td>
+    </tr>
+    <tr>
+      <td><img src="assets/emoji_Hourglass_Done.png" width="25" /> <b>Daily Working Hours:</b></td>
+      <td><code>~ 8 Hours</code></td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### <img src="assets/emoji_Sparkles.png" width="35" /> How I Spend My Free Time
+
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="assets/emoji_Man_Technologist.png" width="25" /> <b>Coding</b></td>
+    </tr>
+    <tr>
+      <td><img src="assets/emoji_Rocket.png" width="25" /> <b>Open-source Contributions</b></td>
+    </tr>
+    <tr>
+      <td><img src="assets/emoji_Open_Book.png" width="25" /> <b>Reading Tech Blogs & Books</b></td>
+    </tr>
+    <tr>
+      <td><img src="assets/emoji_Bullseye.png" width="25" /> <b>Puzzle Solving / Algorithm Challenges</b></td>
+    </tr>
+    <tr>
+      <td><img src="assets/emoji_Light_Bulb.png" width="25" /> <b>Learning New Frameworks & Languages</b></td>
+    </tr>
+    <tr>
+      <td><img src="assets/emoji_Alien_Monster.png" width="25" /> <b>AI Experiments / Side Projects</b></td>
+    </tr>
+  </table>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" width="100%" />
+  <img src="assets/quotes.svg" width="100%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=wajihacodeofficial&label=MISSION%20PROGRESS&color=F52271&style=for-the-badge" />
+  <img src="assets/stats_views.svg" />
 </div>
 
 <div align="center">
@@ -129,5 +221,5 @@
   <b>Thank you for visiting my profile! Let's build something extraordinary. 🚀</b>
   <br />
   <br />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="100" />
+  <img src="assets/emoji_Rocket.png" width="100" />
 </div>
