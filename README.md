@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&pause=1000&color=6EE7B7&center=true&vCenter=true&width=600&lines=CREATIVE+SOFTWARE+ENGINEER;3D+WEB+EXPERIENCES;NEXT.JS+ARCHITECTURE;GSAP+%26+FRAMER+MOTION;BUILDING+THE+FUTURE+WEB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&pause=1000&color=F52271&center=true&vCenter=true&width=600&lines=ELITE+SOFTWARE+ENGINEER;3D+WEB+EXPERIENCES;NEXT.JS+ARCHITECTURE;GSAP+%26+FRAMER+MOTION;BUILDING+THE+FUTURE+WEB" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -27,23 +27,23 @@
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="100" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20with%20Headscarf.png" alt="Hijabi" width="100" />
 </div>
 
 <table align="center">
   <tr>
-    <td width="60%">
-      <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20Places/Milky%20Way.png" width="35" /> Decoding the Digital Galaxy</h3>
+    <td width="55%">
+      <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20Places/Glowing%20Star.png" width="35" /> Decoding the Digital Frontier</h3>
       <p>I am a <b>CREATIVE SOFTWARE ENGINEER</b> with an obsession for building elite-level web experiences. I specialize in merging advanced geometry, smooth animations, and robust system design to create digital masterpieces that leave a lasting impression.</p>
       <ul>
         <li>🧬 Expert in <b>3D Web Development</b> using <b>Three.js</b> and <b>GLSL</b>.</li>
         <li>✨ Master of <b>GSAP</b>, <b>Framer Motion</b>, and <b>Lenis</b> for high-end UX.</li>
         <li>🛠️ Architect of scalable <b>Next.js</b> and <b>Full-Stack</b> ecosystems.</li>
-        <li>🌍 Open to <b>remote-first opportunities</b> and <b>creative collaborations</b>.</li>
+        <li>💻 Working on a <b>Pink MacBook Pro</b> to bring vision to life.</li>
       </ul>
     </td>
-    <td width="40%" align="center">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Medium-Light%20Skin%20Tone.png" width="250" />
+    <td width="45%" align="center">
+      <img src="https://github.com/wajihacodeofficial/wajihacodeofficial/blob/main/output/hijabi-coder.gif?raw=true" onerror="this.src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjA5ZjM2YjY5NmM2Yzc2OTYzNmY2ZTczMmU2NDY1ZmVhYzc3ZGM1NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1TVtoGMMfxMIEXY/giphy.gif'" width="300" style="border-radius: 20px; border: 3px solid #F52271;" />
     </td>
   </tr>
 </table>
@@ -83,8 +83,8 @@
         </a>
       </td>
       <td>
-        <a href="https://github.com/wajihacodeofficial/StockPro">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=wajihacodeofficial&repo=StockPro&theme=vision-friendly-dark&bg_color=0D1117&border_color=F7DF1E&hide_border=false" width="400" />
+        <a href="https://github.com/wajihacodeofficial/Code-Vertex-Website">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=wajihacodeofficial&repo=Code-Vertex-Website&theme=vision-friendly-dark&bg_color=0D1117&border_color=F7DF1E&hide_border=false" width="400" />
         </a>
       </td>
     </tr>
@@ -127,7 +127,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=wajihacodeofficial&label=MISSION%20PROGRESS&color=6EE7B7&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=wajihacodeofficial&label=MISSION%20PROGRESS&color=F52271&style=for-the-badge" />
 </div>
 
 <div align="center">
