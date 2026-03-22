@@ -103,12 +103,15 @@
 ### <img src="assets/emoji_High_Voltage.png" width="35" /> Vital Signs (GitHub Pulse)
 
 <div align="center">
-  <img src="assets/stats_general.svg" height="195" />
-  <img src="assets/stats_langs.svg" height="195" />
-</div>
-
-<div align="center">
-  <img src="assets/stats_streak.svg" width="98%" />
+  <table width="100%">
+    <tr>
+      <td width="50%" align="center"><img src="assets/stats_general.svg" height="195" /></td>
+      <td width="50%" align="center"><img src="assets/stats_langs.svg" height="195" /></td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center"><img src="assets/stats_streak.svg" width="98%" /></td>
+    </tr>
+  </table>
 </div>
 
 <br/>
