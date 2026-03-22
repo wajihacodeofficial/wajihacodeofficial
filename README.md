@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=random&height=220&text=WAJIHA%20ZEHRA&fontSize=80&fontColor=ffffff&desc=3D%20Frontend%20Architect%20%7C%20Creative%20Engineer%20%7C%20Next.js%20Master&descSize=25&descColor=ffffff&fontAlignY=42&descAlignY=68" />
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=timeGradient&customColorList=F52271,0ce8e8,ff9ff3&height=220&text=WAJIHA%20ZEHRA&fontSize=80&fontColor=ffffff&desc=3D%20Frontend%20Architect%20%7C%20Creative%20Engineer%20%7C%20Next.js%20Master&descSize=25&descColor=ffffff&fontAlignY=42&descAlignY=68" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F52271;0ce8e8;ff9ff3&center=true&vCenter=true&width=600&lines=Building+Award-Winning+Web+Experiences;Mastering+3D+Geometry+%26+GSAP;Digital+Masterpieces+in+the+Making;Connecting+Vision+with+High-Performance+Reality" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=23&pause=1000&color=F52271;0ce8e8;ff9ff3;F52271&center=true&vCenter=true&width=600&lines=Building+Award-Winning+Web+Experiences;Mastering+3D+Geometry+%26+GSAP;Digital+Masterpieces+in+the+Making;Connecting+Vision+with+High-Performance+Reality" alt="Typing SVG" />
 </div>
 
 <div align="center">
