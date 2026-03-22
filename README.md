@@ -89,7 +89,7 @@
 
 ---
 
-### <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/55e1dceff489121c3f7c7a7ec4f4d401d2cbd53e/Emojis/Travel%20and%20places/Roller%20Coaster.png" width="35" /> Vital Signs (GitHub Pulse)
+### <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Bar%20Chart.png" width="35" /> Vital Signs (GitHub Pulse)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wajihacodeofficial&show_icons=true&theme=vision-friendly-dark&hide_border=false&bg_color=0D1117&border_color=6EE7B7" width="49%" />
