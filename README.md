@@ -66,8 +66,8 @@
   <table>
     <tr>
       <td>
-        <a href="https://github.com/wajihacodeofficial/Code-Vertex-Website">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=wajihacodeofficial&repo=Code-Vertex-Website&theme=vision-friendly-dark&bg_color=0D1117&border_color=6EE7B7&hide_border=false" width="400" />
+        <a href="https://github.com/wajihacodeofficial/PakChat">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=wajihacodeofficial&repo=PakChat&theme=vision-friendly-dark&bg_color=0D1117&border_color=6EE7B7&hide_border=false" width="400" />
         </a>
       </td>
       <td>
@@ -83,8 +83,8 @@
         </a>
       </td>
       <td>
-        <a href="https://github.com/wajihacodeofficial/TaskManager-WebApp">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=wajihacodeofficial&repo=TaskManager-WebApp&theme=vision-friendly-dark&bg_color=0D1117&border_color=F7DF1E&hide_border=false" width="400" />
+        <a href="https://github.com/wajihacodeofficial/StockPro">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=wajihacodeofficial&repo=StockPro&theme=vision-friendly-dark&bg_color=0D1117&border_color=F7DF1E&hide_border=false" width="400" />
         </a>
       </td>
     </tr>
