@@ -48,7 +48,7 @@
       </ul>
     </td>
     <td width="45%" align="center">
-      <video src="https://github.com/wajihacodeofficial/wajihacodeofficial/blob/main/hero.mp4?raw=true" width="400" autoplay loop muted style="border-radius: 20px; border: 3px solid #F52271;"></video>
+      <img src="mygif.gif" width="400" style="border-radius: 20px; border: 3px solid #F52271;" alt="Hero Animation" />
     </td>
   </tr>
 </table>
