@@ -46,7 +46,7 @@
 
 ---
 
-### <img src="assets/emoji_Hammer_and_Wrench.png" width="45" /> Arsenal & Core Tech
+### `<img src="assets/emoji_Hammer_and_Wrench.png" width="45" />` Arsenal & Core Tech
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react&theme=light" title="React" alt="React" width="50" />
@@ -67,7 +67,7 @@
 
 ---
 
-### <img src="assets/emoji_Crystal_Ball.png" width="35" /> Featured Projects
+### `<img src="assets/emoji_Crystal_Ball.png" width="35" />` Featured Projects
 
 <table align="center">
   <tr>
@@ -100,7 +100,7 @@
 
 ---
 
-### <img src="assets/emoji_Open_Book.png" width="35" /> Education & Certifications
+### `<img src="assets/emoji_Open_Book.png" width="35" />` Education & Certifications
 
 <table align="center">
   <tr>
@@ -109,20 +109,11 @@
       <p><b>BS in Software Engineering</b><br/>
       Iqra University, Karachi, Pakistan<br/>
       <i>2023 – Present (Final Year)</i></p>
-    </td>
-    <td width="50%">
-      <h4>📜 Certifications (freeCodeCamp)</h4>
-      <ul>
-        <li>Responsive Web Design</li>
-        <li>Certified Full-Stack Developer</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+      <i>CGPA: 3.3 </i></p>
 
 ---
 
-### <img src="assets/emoji_Star.png" width="35" /> Achievements & GitHub Insights
+### `<img src="assets/emoji_Star.png" width="35" />` Achievements & GitHub Insights
 
 <div align="center">
   <img src="https://github-profile-achievements.vercel.app/api?username=wajihacodeofficial&theme=light&compact=true" width="100%" />
@@ -140,7 +131,7 @@
 
 ---
 
-### <img src="assets/emoji_Sparkles.png" width="35" /> Digital Lifestyle
+### `<img src="assets/emoji_Sparkles.png" width="35" />` Digital Lifestyle
 
 <div align="center">
   <table>
@@ -192,14 +183,13 @@
 </div>
 
 <div align="center">
+<div align="center">
   <br />
   <i>Connecting Vision with High-Performance Reality.</i>
   <br />
+  <br />
   <b>Thank you for visiting! Let's build something extraordinary. <img src="assets/emoji_Rocket.png" width="25" /></b>
   <br />
-  <br />
-</div>
-
   <br />
   <img src="assets/emoji_Rocket.png" width="100" />
 </div>
