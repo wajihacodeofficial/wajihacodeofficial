@@ -46,7 +46,7 @@
 
 ---
 
-### <img src="assets/emoji_Hammer_and_Wrench.png" width="45" /> Arsenal & Core Tech
+### `<img src="assets/emoji_Hammer_and_Wrench.png" width="45" />` Arsenal & Core Tech
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react" title="React" alt="React" width="50" />
@@ -67,7 +67,7 @@
 
 ---
 
-### <img src="assets/emoji_Crystal_Ball.png" width="35" /> Featured Projects
+### `<img src="assets/emoji_Crystal_Ball.png" width="35" />` Featured Projects
 
 <table align="center">
   <tr>
@@ -75,22 +75,22 @@
       <h4>🌐 <a href="https://github.com/wajihacodeofficial/Wajiha-Zehra-Portfolio">Personal Portfolio</a></h4>
       <p><b>React • Node.js • Express • PostgreSQL</b></p>
       <ul>
-        <li>▸ Responsive platform to showcase projects/skills.</li>
-        <li>▸ SEO optimized for faster load times.</li>
-        <li>▸ Modular architecture for scalability.</li>
-        <li>▸ Backend APIs for dynamic content.</li>
-        <li>▸ Secure contact form with server-side handling.</li>
+        <li>Responsive platform to showcase projects/skills.</li>
+        <li>SEO optimized for faster load times.</li>
+        <li>Modular architecture for scalability.</li>
+        <li>Backend APIs for dynamic content.</li>
+        <li>Secure contact form with server-side handling.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h4>🏢 <a href="https://github.com/wajihacodeofficial/EMS-Offline">EMS-Offline</a></h4>
       <p><b>Electron • React • Node.js • PostgreSQL</b></p>
       <ul>
-        <li>▸ Offline desktop HR system for local businesses.</li>
-        <li>▸ Attendance, payroll, & employee modules.</li>
-        <li>▸ PostgreSQL schema with Node/Express APIs.</li>
-        <li>▸ Reusable React component architecture.</li>
-        <li>▸ Hooks-based state management.</li>
+        <li>Offline desktop HR system for local businesses.</li>
+        <li>Attendance, payroll, & employee modules.</li>
+        <li>PostgreSQL schema with Node/Express APIs.</li>
+        <li>Reusable React component architecture.</li>
+        <li>Hooks-based state management.</li>
       </ul>
     </td>
   </tr>
@@ -99,22 +99,22 @@
       <h4>🏥 <a href="https://github.com/wajihacodeofficial/Medify">Medify - AI Pharmacy</a></h4>
       <p><b>React • OpenAI • Node.js • PostgreSQL</b></p>
       <ul>
-        <li>▸ AI prescription scanning & data extraction.</li>
-        <li>▸ Real-time inventory with low-stock alerts.</li>
-        <li>▸ Role-based access control (Admin/User).</li>
-        <li>▸ Hybrid DB: PostgreSQL & MongoDB.</li>
-        <li>▸ Automated inventory management.</li>
+        <li>AI prescription scanning & data extraction.</li>
+        <li>Real-time inventory with low-stock alerts.</li>
+        <li>Role-based access control (Admin/User).</li>
+        <li>Hybrid DB: PostgreSQL & MongoDB.</li>
+        <li>Automated inventory management.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h4>🍕 <a href="https://github.com/wajihacodeofficial/BiteDash">BiteDash - Food App</a></h4>
       <p><b>React • WebSockets • Node.js • MongoDB</b></p>
       <ul>
-        <li>▸ Real-time tracking using WebSockets.</li>
-        <li>▸ Normalized PostgreSQL schema for orders.</li>
-        <li>▸ Modular backend inspired by Microservices.</li>
-        <li>▸ Dashboards for Managers, Riders, & Users.</li>
-        <li>▸ Live order status updates.</li>
+        <li>Real-time tracking using WebSockets.</li>
+        <li>Normalized PostgreSQL schema for orders.</li>
+        <li>Modular backend inspired by Microservices.</li>
+        <li>Dashboards for Managers, Riders, & Users.</li>
+        <li>Live order status updates.</li>
       </ul>
     </td>
   </tr>
@@ -124,7 +124,7 @@
 
 ---
 
-### <img src="assets/emoji_Open_Book.png" width="35" /> Education & Certifications
+### `<img src="assets/emoji_Open_Book.png" width="35" />` Education & Certifications
 
 <table align="center">
   <tr>
@@ -153,7 +153,7 @@
 
 ---
 
-### <img src="assets/emoji_High_Voltage.png" width="35" /> GitHub Insights
+### `<img src="assets/emoji_High_Voltage.png" width="35" />` GitHub Insights
 
 <div align="center">
   <img src="assets/stats_general.svg" width="49%" />
@@ -167,42 +167,18 @@
 
 ---
 
-### 🏆 Achievements & Problem Solving
+### `<img src="assets/emoji_Star.png" width="35" />` Achievements & Problem Solving
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/LeetCode-100+%20Problems%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Clean%20Code-Certified-success?style=for-the-badge&logo=codestream&logoColor=white" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/CI/CD-Managed-blue?style=for-the-badge&logo=github-actions&logoColor=white" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-profile-achievements.vercel.app/api?username=wajihacodeofficial&theme=dark&compact=true" width="100%" />
 </div>
 
+<br/>
+
 <div align="center">
-  <br/>
-  <table>
-    <tr>
-      <td align="center">
-        <img src="assets/achievement_pull-shark-default.png" width="100" />
-        <br/><b>Pull Shark</b>
-      </td>
-      <td align="center">
-        <img src="assets/achievement_quickdraw-default.png" width="100" />
-        <br/><b>Quickdraw</b>
-      </td>
-      <td align="center">
-        <img src="assets/achievement_yolo-default.png" width="100" />
-        <br/><b>YOLO</b>
-      </td>
-    </tr>
-  </table>
+  <img src="https://img.shields.io/badge/LeetCode-100+%20Problems%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Clean%20Code-Certified-success?style=for-the-badge&logo=codestream&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI/CD-Managed-blue?style=for-the-badge&logo=github-actions&logoColor=white" />
 </div>
 
 ---
@@ -215,7 +191,7 @@
 
 ---
 
-### <img src="assets/emoji_Sparkles.png" width="35" /> Digital Lifestyle
+### `<img src="assets/emoji_Sparkles.png" width="35" />` Digital Lifestyle
 
 <div align="center">
   <table>
@@ -267,4 +243,3 @@
   <br />
   <img src="assets/emoji_Rocket.png" width="100" />
 </div>
-
