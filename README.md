@@ -71,48 +71,28 @@
 
 <table align="center">
   <tr>
-    <td width="30%" valign="top">
+    <td width="50%" valign="top">
       <h4>🌐 <a href="https://github.com/wajihacodeofficial/Wajiha-Zehra-Portfolio">Personal Portfolio</a></h4>
       <p><b>React • Node.js • PostgreSQL</b></p>
-      <ul>
-        <li>▸ Responsive platform project display.</li>
-        <li>▸ SEO optimized load times.</li>
-        <li>▸ Modular architecture.</li>
-      </ul>
+      <p>A scalable and SEO-optimized platform designed to showcase professional projects and skills with a modular architecture and high-performance backend.</p>
     </td>
-    <td width="20%" align="center"><img src="assets/emoji_Eyes.png" width="80" /></td>
-    <td width="30%" valign="top">
+    <td width="50%" valign="top">
       <h4>🏢 <a href="https://github.com/wajihacodeofficial/EMS-Offline">EMS-Offline</a></h4>
       <p><b>Electron • React • PostgreSQL</b></p>
-      <ul>
-        <li>▸ Offline desktop HR system.</li>
-        <li>▸ Attendance & payroll modules.</li>
-        <li>▸ Reusable React components.</li>
-      </ul>
+      <p>A robust offline desktop HR solution built with Electron for managing attendance, payroll, and employee records in secure local business environments.</p>
     </td>
-    <td width="20%" align="center"><img src="assets/emoji_Bullseye.png" width="80" /></td>
   </tr>
   <tr>
-    <td width="30%" valign="top">
+    <td width="50%" valign="top">
       <h4>🏥 <a href="https://github.com/wajihacodeofficial/Medify">Medify - AI Pharmacy</a></h4>
       <p><b>React • OpenAI • Node.js</b></p>
-      <ul>
-        <li>▸ AI prescription scanning.</li>
-        <li>▸ Real-time inventory alerts.</li>
-        <li>▸ Hybrid DB: Postgres & Mongo.</li>
-      </ul>
+      <p>AI-driven pharmacy management system integrating OpenAI for automated prescription scanning and real-time inventory tracking via a hybrid database design.</p>
     </td>
-    <td width="20%" align="center"><img src="assets/emoji_Robot.png" width="80" /></td>
-    <td width="30%" valign="top">
+    <td width="50%" valign="top">
       <h4>🍕 <a href="https://github.com/wajihacodeofficial/BiteDash">BiteDash - Food App</a></h4>
       <p><b>React • WebSockets • MongoDB</b></p>
-      <ul>
-        <li>▸ Real-time order tracking.</li>
-        <li>▸ Normalized order schema.</li>
-        <li>▸ Live order updates.</li>
-      </ul>
+      <p>High-performance food delivery platform utilizing WebSockets for real-time order tracking and a modular architecture inspired by microservices.</p>
     </td>
-    <td width="20%" align="center"><img src="assets/emoji_High_Voltage.png" width="80" /></td>
   </tr>
 </table>
 
