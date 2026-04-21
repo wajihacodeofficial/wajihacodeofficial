@@ -46,7 +46,7 @@
 
 ---
 
-### `<img src="assets/emoji_Hammer_and_Wrench.png" width="45" />` Arsenal & Core Tech
+### <img src="assets/emoji_Hammer_and_Wrench.png" width="45" /> Arsenal & Core Tech
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react" title="React" alt="React" width="50" />
@@ -67,7 +67,7 @@
 
 ---
 
-### `<img src="assets/emoji_Crystal_Ball.png" width="35" />` Featured Projects
+### <img src="assets/emoji_Crystal_Ball.png" width="35" /> Featured Projects
 
 <table align="center">
   <tr>
@@ -124,7 +124,7 @@
 
 ---
 
-### `<img src="assets/emoji_Open_Book.png" width="35" />` Education & Certifications
+### <img src="assets/emoji_Open_Book.png" width="35" /> Education & Certifications
 
 <table align="center">
   <tr>
@@ -153,7 +153,7 @@
 
 ---
 
-### `<img src="assets/emoji_High_Voltage.png" width="35" />` GitHub Insights
+### <img src="assets/emoji_High_Voltage.png" width="35" /> GitHub Insights
 
 <div align="center">
   <img src="assets/stats_general.svg" width="49%" />
@@ -167,7 +167,7 @@
 
 ---
 
-### `<img src="assets/emoji_Star.png" width="35" />` Achievements & Problem Solving
+### <img src="assets/emoji_Star.png" width="35" /> Achievements & Problem Solving
 
 <div align="center">
   <img src="https://github-profile-achievements.vercel.app/api?username=wajihacodeofficial&theme=dark&compact=true" width="100%" />
@@ -191,7 +191,7 @@
 
 ---
 
-### `<img src="assets/emoji_Sparkles.png" width="35" />` Digital Lifestyle
+### <img src="assets/emoji_Sparkles.png" width="35" /> Digital Lifestyle
 
 <div align="center">
   <table>
