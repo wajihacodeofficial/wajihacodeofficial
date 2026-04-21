@@ -46,7 +46,7 @@
 
 ---
 
-### `<img src="assets/emoji_Hammer_and_Wrench.png" width="45" />` Arsenal & Core Tech
+### <img src="assets/emoji_Hammer_and_Wrench.png" width="45" /> Arsenal & Core Tech
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react&theme=light" title="React" alt="React" width="50" />
@@ -67,7 +67,7 @@
 
 ---
 
-### `<img src="assets/emoji_Crystal_Ball.png" width="35" />` Featured Projects
+### <img src="assets/emoji_Crystal_Ball.png" width="35" /> Featured Projects
 
 <table align="center">
   <tr>
@@ -100,7 +100,7 @@
 
 ---
 
-### `<img src="assets/emoji_Open_Book.png" width="35" />` Education & Certifications
+### <img src="assets/emoji_Open_Book.png" width="35" /> Education & Certifications
 
 <table align="center">
   <tr>
@@ -157,7 +157,7 @@
 
 ---
 
-### `<img src="assets/emoji_Sparkles.png" width="35" />` Digital Lifestyle
+### <img src="assets/emoji_Sparkles.png" width="35" /> Digital Lifestyle
 
 <div align="center">
   <table>
