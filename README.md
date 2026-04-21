@@ -32,10 +32,10 @@
       <h3><img src="assets/emoji_Man_Technologist.png" width="35" /> Professional Summary</h3>
       <p>I am a <b>Final-year Software Engineering student</b> with hands-on experience building <b>5 independent production-grade applications</b>, alongside contributing to multiple team-based projects as a <b>Frontend Specialist</b>. I am proficient across the full stack — from creating high-performance React UIs to architecting PostgreSQL schemas and Node.js REST APIs.</p>
       <ul>
-        <li><img src="assets/emoji_Rocket.png" width="18" /> 5+ Solo production apps including AI and Real-time platforms.</li>
-        <li><img src="assets/emoji_Link.png" width="18" /> Extensive experience collaborating in team environments as a Frontend dev.</li>
-        <li><img src="assets/emoji_Light_Bulb.png" width="18" /> Expert in <b>React.js</b>, <b>Node.js</b>, and <b>Scalable System Design</b>.</li>
-        <li><img src="assets/emoji_Glowing_Star.png" width="18" /> Based in <b>Karachi, Pakistan</b>, ready to bring 5-star quality to engineering teams.</li>
+        <li> 5+ Solo production apps including AI and Real-time platforms.</li>
+        <li> Extensive experience collaborating in team environments as a Frontend dev.</li>
+        <li>Expert in <b>React.js</b>, <b>Node.js</b>, and <b>Scalable System Design</b>.</li>
+        <li> Based in <b>Karachi, Pakistan</b>, ready to bring 5-star quality to engineering teams.</li>
       </ul>
     </td>
     <td width="45%" align="center">
@@ -104,12 +104,23 @@
 
 <table align="center">
   <tr>
-    <td width="50%">
+    <td width="55%">
       <h4>🎓 Education</h4>
       <p><b>BS in Software Engineering</b><br/>
       Iqra University, Karachi, Pakistan<br/>
       <i>2023 – Present (Final Year)</i></p>
-      <i>CGPA: 3.3 </i></p>
+    </td>
+    <td width="45%">
+      <h4>📜 Certifications</h4>
+      <ul>
+        <li>▸ Responsive Web Design — freeCodeCamp</li>
+        <li>▸ JavaScript Certification — freeCodeCamp</li>
+        <li>▸ Front End Development Libraries — freeCodeCamp</li>
+        <li>▸ Certified Full-Stack Developer — freeCodeCamp</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -190,6 +201,4 @@
   <br />
   <b>Thank you for visiting! Let's build something extraordinary. <img src="assets/emoji_Rocket.png" width="25" /></b>
   <br />
-  <br />
-  <img src="assets/emoji_Rocket.png" width="100" />
-</div>
+ </div>
