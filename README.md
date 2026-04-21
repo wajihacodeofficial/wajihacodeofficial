@@ -146,6 +146,15 @@
 
 <br/>
 
+* ▸ **Solved 100+ Problems**: Demonstrating strong proficiency in data structures, algorithms, and problem-solving fundamentals on [LeetCode](https://leetcode.com/wajihacodeofficial).
+* ▸ **Clean Code & Architecture**: Followed clean code principles and component-based architecture for maintainable and scalable applications.
+* ▸ **Version Control Expert**: Utilized Git for professional version control with structured commits and collaborative workflows.
+* ▸ **DevOps & Deployment**: Successfully managed CI/CD and environment configurations for applications deployed on **Vercel** and **Railway**.
+
+<br/>
+
+<br/>
+
 ---
 
 ### `<img src="assets/emoji_Sparkles.png" width="35" />` Digital Lifestyle
