@@ -29,7 +29,7 @@
 <table align="center">
   <tr>
     <td width="55%">
-      <h3><img src="assets/emoji_Man_Technologist.png" width="35" /> Professional Summary</h3>
+      <h3><img src="https://raw.githubusercontent.com/wajihacodeofficial/wajihacodeofficial/main/assets/emoji_Man_Technologist.png" width="35" /> Professional Summary</h3>
       <p>I am a <b>Final-year Software Engineering student</b> with hands-on experience building <b>5 independent production-grade applications</b>, alongside contributing to multiple team-based projects as a <b>Frontend Specialist</b>. I am proficient across the full stack — from creating high-performance React UIs to architecting PostgreSQL schemas and Node.js REST APIs.</p>
       <ul>
         <li> 5+ Solo production apps including AI and Real-time platforms.</li>
@@ -46,7 +46,7 @@
 
 ---
 
-### `<img src="assets/emoji_Hammer_and_Wrench.png" width="45" />` Arsenal & Core Tech
+### <img src="https://raw.githubusercontent.com/wajihacodeofficial/wajihacodeofficial/main/assets/emoji_Hammer_and_Wrench.png" width="45" /> Arsenal & Core Tech
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react&theme=light" title="React" alt="React" width="50" />
@@ -67,7 +67,7 @@
 
 ---
 
-### `<img src="assets/emoji_Crystal_Ball.png" width="35" />` Featured Projects
+### <img src="https://raw.githubusercontent.com/wajihacodeofficial/wajihacodeofficial/main/assets/emoji_Crystal_Ball.png" width="35" /> Featured Projects
 
 <table align="center">
   <tr>
@@ -100,7 +100,7 @@
 
 ---
 
-### `<img src="assets/emoji_Open_Book.png" width="35" />` Education & Certifications
+### <img src="https://raw.githubusercontent.com/wajihacodeofficial/wajihacodeofficial/main/assets/emoji_Open_Book.png" width="35" /> Education & Certifications
 
 <table align="center">
   <tr>
@@ -124,7 +124,7 @@
 
 ---
 
-### `<img src="assets/emoji_High_Voltage.png" width="35" />` GitHub Insights
+### <img src="https://raw.githubusercontent.com/wajihacodeofficial/wajihacodeofficial/main/assets/emoji_High_Voltage.png" width="35" /> GitHub Insights
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wajihacodeofficial&show_icons=true&theme=rose_pine" width="49%" />
@@ -138,7 +138,7 @@
 
 ---
 
-### `<img src="assets/emoji_Star.png" width="35" />` Achievements & Problem Solving
+### <img src="https://raw.githubusercontent.com/wajihacodeofficial/wajihacodeofficial/main/assets/emoji_Star.png" width="35" /> Achievements & Problem Solving
 
 - **Solved 100+ Problems**: Demonstrating strong proficiency in data structures, algorithms, and problem-solving fundamentals on [LeetCode](https://leetcode.com/wajihacodeofficial).
 - **Clean Code & Architecture**: Followed clean code principles and component-based architecture for maintainable and scalable applications.
@@ -151,7 +151,7 @@
 
 ---
 
-### `<img src="assets/emoji_Sparkles.png" width="35" />` Digital Lifestyle
+### <img src="https://raw.githubusercontent.com/wajihacodeofficial/wajihacodeofficial/main/assets/emoji_Sparkles.png" width="35" /> Digital Lifestyle
 
 <div align="center">
   <table>
