@@ -69,45 +69,56 @@
 
 ### <img src="assets/emoji_Crystal_Ball.png" width="35" /> Featured Projects
 
-<div align="center">
-  <a href="https://github.com/wajihacodeofficial/Wajiha-Zehra-Portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wajihacodeofficial&repo=Wajiha-Zehra-Portfolio&theme=radical&border_color=F52271" width="49%" /></a>
-  <a href="https://github.com/wajihacodeofficial/EMS-Offline"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wajihacodeofficial&repo=EMS-Offline&theme=radical&border_color=0ce8e8" width="49%" /></a>
-</div>
-<div align="center">
-  <a href="https://github.com/wajihacodeofficial/Medify"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wajihacodeofficial&repo=Medify&theme=radical&border_color=ff9ff3" width="49%" /></a>
-  <a href="https://github.com/wajihacodeofficial/BiteDash"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wajihacodeofficial&repo=BiteDash&theme=radical&border_color=F52271" width="49%" /></a>
-</div>
-
-<br/>
-
-#### 🌐 [Personal Portfolio Website](https://github.com/wajihacodeofficial/Wajiha-Zehra-Portfolio)
-**React • Node.js • Express • PostgreSQL | 2026**
-* ▸ Responsive portfolio platform to showcase projects, skills, and experience.
-* ▸ SEO optimization and performance improvements for faster load times.
-* ▸ Modular React architecture for scalability and maintainability.
-* ▸ Backend APIs for dynamic project and content management.
-* ▸ Secure contact form with validation and server-side handling.
-
-#### 🏢 [Employee Management System (EMS)](https://github.com/wajihacodeofficial/EMS-Offline)
-**Electron • React • Node.js • Express • PostgreSQL | 2026**
-* ▸ Offline desktop HR system using Electron for local business environments.
-* ▸ Attendance, payroll, and employee management modules.
-* ▸ PostgreSQL schema with REST APIs using Node.js/Express.
-* ▸ Reusable React component architecture with Hooks-based state management.
-
-#### 🏥 [Medify – AI Pharmacy Management System](https://github.com/wajihacodeofficial/Medify)
-**React • Node.js • Express • PostgreSQL • MongoDB • OpenAI API | 2025**
-* ▸ OpenAI API for prescription scanning and data extraction.
-* ▸ Real-time inventory system with low-stock alert automation.
-* ▸ Role-based access control (pharmacist, customer, admin).
-* ▸ Hybrid database design: PostgreSQL (transactions), MongoDB (documents).
-
-#### 🍕 [BiteDash – Food Delivery Platform](https://github.com/wajihacodeofficial/BiteDash)
-**React • Node.js • Express • PostgreSQL • MongoDB • WebSocket | 2025**
-* ▸ Real-time order tracking using WebSockets for live updates.
-* ▸ Normalized PostgreSQL schema for orders, users, and restaurants.
-* ▸ Modular backend structure inspired by microservices principles.
-* ▸ Dashboards for customers, restaurant managers and riders.
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🌐 <a href="https://github.com/wajihacodeofficial/Wajiha-Zehra-Portfolio">Personal Portfolio</a></h4>
+      <p><b>React • Node.js • Express • PostgreSQL</b></p>
+      <ul>
+        <li>▸ Responsive platform to showcase projects/skills.</li>
+        <li>▸ SEO optimized for faster load times.</li>
+        <li>▸ Modular architecture for scalability.</li>
+        <li>▸ Backend APIs for dynamic content.</li>
+        <li>▸ Secure contact form with server-side handling.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🏢 <a href="https://github.com/wajihacodeofficial/EMS-Offline">EMS-Offline</a></h4>
+      <p><b>Electron • React • Node.js • PostgreSQL</b></p>
+      <ul>
+        <li>▸ Offline desktop HR system for local businesses.</li>
+        <li>▸ Attendance, payroll, & employee modules.</li>
+        <li>▸ PostgreSQL schema with Node/Express APIs.</li>
+        <li>▸ Reusable React component architecture.</li>
+        <li>▸ Hooks-based state management.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🏥 <a href="https://github.com/wajihacodeofficial/Medify">Medify - AI Pharmacy</a></h4>
+      <p><b>React • OpenAI • Node.js • PostgreSQL</b></p>
+      <ul>
+        <li>▸ AI prescription scanning & data extraction.</li>
+        <li>▸ Real-time inventory with low-stock alerts.</li>
+        <li>▸ Role-based access control (Admin/User).</li>
+        <li>▸ Hybrid DB: PostgreSQL & MongoDB.</li>
+        <li>▸ Automated inventory management.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🍕 <a href="https://github.com/wajihacodeofficial/BiteDash">BiteDash - Food App</a></h4>
+      <p><b>React • WebSockets • Node.js • MongoDB</b></p>
+      <ul>
+        <li>▸ Real-time tracking using WebSockets.</li>
+        <li>▸ Normalized PostgreSQL schema for orders.</li>
+        <li>▸ Modular backend inspired by Microservices.</li>
+        <li>▸ Dashboards for Managers, Riders, & Users.</li>
+        <li>▸ Live order status updates.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
