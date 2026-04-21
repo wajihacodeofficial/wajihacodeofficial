@@ -29,7 +29,7 @@
 <table align="center">
   <tr>
     <td width="55%">
-      <h3>`<img src="assets/emoji_Glowing_Star.png" width="35" />` Professional Summary</h3>
+      <h3><img src="assets/emoji_Glowing_Star.png" width="35" /> Professional Summary</h3>
       <p>I am a <b>Final-year Software Engineering student</b> with hands-on experience building <b>5 independent production-grade applications</b>, alongside contributing to multiple team-based projects as a <b>Frontend Specialist</b>. I am proficient across the full stack — from creating high-performance React UIs to architecting PostgreSQL schemas and Node.js REST APIs.</p>
       <ul>
         <li>🚀 5+ Solo production apps including AI and Real-time platforms.</li>
@@ -46,7 +46,7 @@
 
 ---
 
-### `<img src="assets/emoji_Hammer_and_Wrench.png" width="45" />` Arsenal & Core Tech
+### <img src="assets/emoji_Hammer_and_Wrench.png" width="45" /> Arsenal & Core Tech
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react" title="React" alt="React" width="50" />
@@ -67,7 +67,7 @@
 
 ---
 
-### `<img src="assets/emoji_Crystal_Ball.png" width="35" />` Featured Projects
+### <img src="assets/emoji_Crystal_Ball.png" width="35" /> Featured Projects
 
 <div align="center">
   <a href="https://github.com/wajihacodeofficial/Wajiha-Zehra-Portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wajihacodeofficial&repo=Wajiha-Zehra-Portfolio&theme=radical&border_color=F52271" width="49%" /></a>
@@ -82,7 +82,7 @@
 
 ---
 
-### `<img src="assets/emoji_Open_Book.png" width="35" />` Education & Certifications
+### <img src="assets/emoji_Open_Book.png" width="35" /> Education & Certifications
 
 <table align="center">
   <tr>
@@ -111,7 +111,7 @@
 
 ---
 
-### `<img src="assets/emoji_High_Voltage.png" width="35" />` GitHub Insights
+### <img src="assets/emoji_High_Voltage.png" width="35" /> GitHub Insights
 
 <div align="center">
   <img src="assets/stats_general.svg" width="49%" />
@@ -168,12 +168,12 @@
 ### ✨ Contribution Activity
 
 <div align="center">
-  <img src="assets/girly_snake.svg" width="100%" alt="Girly Snake Animation" />
+  <img src="https://raw.githubusercontent.com/wajihacodeofficial/wajihacodeofficial/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Girly Snake Animation" />
 </div>
 
 ---
 
-### `<img src="assets/emoji_Sparkles.png" width="35" />` Digital Lifestyle
+### <img src="assets/emoji_Sparkles.png" width="35" /> Digital Lifestyle
 
 <div align="center">
   <table>
