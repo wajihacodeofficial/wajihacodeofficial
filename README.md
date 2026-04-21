@@ -29,17 +29,17 @@
 <table align="center">
   <tr>
     <td width="55%">
-      <h3><img src="assets/emoji_Glowing_Star.png" width="35" /> Professional Summary</h3>
+      <h3><img src="assets/emoji_Man_Technologist.png" width="35" /> Professional Summary</h3>
       <p>I am a <b>Final-year Software Engineering student</b> with hands-on experience building <b>5 independent production-grade applications</b>, alongside contributing to multiple team-based projects as a <b>Frontend Specialist</b>. I am proficient across the full stack — from creating high-performance React UIs to architecting PostgreSQL schemas and Node.js REST APIs.</p>
       <ul>
-        <li>🚀 5+ Solo production apps including AI and Real-time platforms.</li>
-        <li>👥 Extensive experience collaborating in team environments as a Frontend dev.</li>
-        <li>🛠️ Expert in <b>React.js</b>, <b>Node.js</b>, and <b>Scalable System Design</b>.</li>
-        <li>💻 Based in <b>Karachi, Pakistan</b>, ready to bring 5-star quality to engineering teams.</li>
+        <li><img src="assets/emoji_Rocket.png" width="18" /> 5+ Solo production apps including AI and Real-time platforms.</li>
+        <li><img src="assets/emoji_Link.png" width="18" /> Extensive experience collaborating in team environments as a Frontend dev.</li>
+        <li><img src="assets/emoji_Light_Bulb.png" width="18" /> Expert in <b>React.js</b>, <b>Node.js</b>, and <b>Scalable System Design</b>.</li>
+        <li><img src="assets/emoji_Glowing_Star.png" width="18" /> Based in <b>Karachi, Pakistan</b>, ready to bring 5-star quality to engineering teams.</li>
       </ul>
     </td>
     <td width="45%" align="center">
-      <img src="mygif.gif" width="400" style="border-radius: 20px; border: 3px solid #F52271;" alt="Hero Animation" />
+      <img src="mygif.gif" width="400" style="border-radius: 20px; border: 3px solid #ff9ff3;" alt="Hero Animation" />
     </td>
   </tr>
 </table>
@@ -71,52 +71,48 @@
 
 <table align="center">
   <tr>
-    <td width="50%" valign="top">
+    <td width="30%" valign="top">
       <h4>🌐 <a href="https://github.com/wajihacodeofficial/Wajiha-Zehra-Portfolio">Personal Portfolio</a></h4>
-      <p><b>React • Node.js • Express • PostgreSQL</b></p>
+      <p><b>React • Node.js • PostgreSQL</b></p>
       <ul>
-        <li>Responsive platform to showcase projects/skills.</li>
-        <li>SEO optimized for faster load times.</li>
-        <li>Modular architecture for scalability.</li>
-        <li>Backend APIs for dynamic content.</li>
-        <li>Secure contact form with server-side handling.</li>
+        <li>▸ Responsive platform project display.</li>
+        <li>▸ SEO optimized load times.</li>
+        <li>▸ Modular architecture.</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="20%" align="center"><img src="assets/emoji_Eyes.png" width="80" /></td>
+    <td width="30%" valign="top">
       <h4>🏢 <a href="https://github.com/wajihacodeofficial/EMS-Offline">EMS-Offline</a></h4>
-      <p><b>Electron • React • Node.js • PostgreSQL</b></p>
+      <p><b>Electron • React • PostgreSQL</b></p>
       <ul>
-        <li>Offline desktop HR system for local businesses.</li>
-        <li>Attendance, payroll, & employee modules.</li>
-        <li>PostgreSQL schema with Node/Express APIs.</li>
-        <li>Reusable React component architecture.</li>
-        <li>Hooks-based state management.</li>
+        <li>▸ Offline desktop HR system.</li>
+        <li>▸ Attendance & payroll modules.</li>
+        <li>▸ Reusable React components.</li>
       </ul>
     </td>
+    <td width="20%" align="center"><img src="assets/emoji_Bullseye.png" width="80" /></td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="30%" valign="top">
       <h4>🏥 <a href="https://github.com/wajihacodeofficial/Medify">Medify - AI Pharmacy</a></h4>
-      <p><b>React • OpenAI • Node.js • PostgreSQL</b></p>
+      <p><b>React • OpenAI • Node.js</b></p>
       <ul>
-        <li>AI prescription scanning & data extraction.</li>
-        <li>Real-time inventory with low-stock alerts.</li>
-        <li>Role-based access control (Admin/User).</li>
-        <li>Hybrid DB: PostgreSQL & MongoDB.</li>
-        <li>Automated inventory management.</li>
+        <li>▸ AI prescription scanning.</li>
+        <li>▸ Real-time inventory alerts.</li>
+        <li>▸ Hybrid DB: Postgres & Mongo.</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="20%" align="center"><img src="assets/emoji_Robot.png" width="80" /></td>
+    <td width="30%" valign="top">
       <h4>🍕 <a href="https://github.com/wajihacodeofficial/BiteDash">BiteDash - Food App</a></h4>
-      <p><b>React • WebSockets • Node.js • MongoDB</b></p>
+      <p><b>React • WebSockets • MongoDB</b></p>
       <ul>
-        <li>Real-time tracking using WebSockets.</li>
-        <li>Normalized PostgreSQL schema for orders.</li>
-        <li>Modular backend inspired by Microservices.</li>
-        <li>Dashboards for Managers, Riders, & Users.</li>
-        <li>Live order status updates.</li>
+        <li>▸ Real-time order tracking.</li>
+        <li>▸ Normalized order schema.</li>
+        <li>▸ Live order updates.</li>
       </ul>
     </td>
+    <td width="20%" align="center"><img src="assets/emoji_High_Voltage.png" width="80" /></td>
   </tr>
 </table>
 
@@ -130,21 +126,14 @@
   <tr>
     <td width="50%">
       <h4>🎓 Education</h4>
-      <p><b>Bachelor of Science in Software Engineering</b><br/>
+      <p><b>BS in Software Engineering</b><br/>
       Iqra University, Karachi, Pakistan<br/>
       <i>2023 – Present (Final Year)</i></p>
-      <ul>
-        <li>Data Structures & Algorithms</li>
-        <li>Database Design & Architecture</li>
-        <li>Agile Software Development</li>
-      </ul>
     </td>
     <td width="50%">
       <h4>📜 Certifications (freeCodeCamp)</h4>
       <ul>
         <li>Responsive Web Design</li>
-        <li>JavaScript Algorithms & Data Structures</li>
-        <li>Front End Development Libraries</li>
         <li>Certified Full-Stack Developer</li>
       </ul>
     </td>
@@ -153,7 +142,11 @@
 
 ---
 
-### <img src="assets/emoji_High_Voltage.png" width="35" /> GitHub Insights
+### <img src="assets/emoji_Star.png" width="35" /> Achievements & GitHub Insights
+
+<div align="center">
+  <img src="https://github-profile-achievements.vercel.app/api?username=wajihacodeofficial&theme=light&compact=true" width="100%" />
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wajihacodeofficial&show_icons=true&theme=sakura&hide_border=true" width="49%" />
@@ -164,30 +157,6 @@
 </div>
 
 <br/>
-
----
-
-### <img src="assets/emoji_Star.png" width="35" /> Achievements & Problem Solving
-
-<div align="center">
-  <img src="https://github-profile-achievements.vercel.app/api?username=wajihacodeofficial&theme=light&compact=true" width="100%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/LeetCode-100+%20Problems%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Clean%20Code-Certified-success?style=for-the-badge&logo=codestream&logoColor=white" />
-  <img src="https://img.shields.io/badge/CI/CD-Managed-blue?style=for-the-badge&logo=github-actions&logoColor=white" />
-</div>
-
----
-
-### ✨ Contribution Activity
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/wajihacodeofficial/wajihacodeofficial/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Girly Snake Animation" />
-</div>
 
 ---
 
@@ -204,22 +173,30 @@
       <td><code>3,500+</code></td>
     </tr>
     <tr>
-      <td><img src="assets/emoji_Brain.png" width="25" /> <b>Learning Hours:</b></td>
-      <td><code>8,000+</code></td>
+      <td><img src="assets/emoji_Hourglass_Done.png" width="25" /> <b>Daily Work Hours:</b></td>
+      <td><code>8+ Hours</code></td>
     </tr>
     <tr>
-      <td><img src="assets/emoji_Robot.png" width="25" /> <b>Repositories Built:</b></td>
-      <td><code>15+</code></td>
+      <td><img src="assets/emoji_Brain.png" width="25" /> <b>Learning Time:</b></td>
+      <td><code>8,000+ Hours</code></td>
     </tr>
     <tr>
-      <td><img src="assets/emoji_Rocket.png" width="25" /> <b>Projects Deployed:</b></td>
-      <td><code>10+</code></td>
-    </tr>
-    <tr>
-      <td><img src="assets/emoji_Teacup_Without_Handle.png" width="25" /> <b>Coffee Consumed:</b></td>
+      <td><img src="assets/emoji_Teacup_Without_Handle.png" width="25" /> <b>Tea/Coffee:</b></td>
       <td><code>2,000+ cups</code></td>
     </tr>
+    <tr>
+      <td><img src="assets/emoji_Alien_Monster.png" width="25" /> <b>Free Time Activities:</b></td>
+      <td><code>Learning AI & Gaming</code></td>
+    </tr>
   </table>
+</div>
+
+---
+
+### ✨ Contribution Activity
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/wajihacodeofficial/wajihacodeofficial/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Girly Snake Animation" />
 </div>
 
 ---
@@ -238,8 +215,11 @@
   <br />
   <i>Connecting Vision with High-Performance Reality.</i>
   <br />
-  <b>Thank you for visiting! Let's build something extraordinary. 🚀</b>
+  <b>Thank you for visiting! Let's build something extraordinary. <img src="assets/emoji_Rocket.png" width="25" /></b>
   <br />
+  <br />
+</div>
+
   <br />
   <img src="assets/emoji_Rocket.png" width="100" />
 </div>
