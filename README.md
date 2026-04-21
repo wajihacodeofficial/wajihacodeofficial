@@ -80,6 +80,37 @@
 
 <br/>
 
+#### 🌐 [Personal Portfolio Website](https://github.com/wajihacodeofficial/Wajiha-Zehra-Portfolio)
+**React • Node.js • Express • PostgreSQL | 2026**
+* ▸ Responsive portfolio platform to showcase projects, skills, and experience.
+* ▸ SEO optimization and performance improvements for faster load times.
+* ▸ Modular React architecture for scalability and maintainability.
+* ▸ Backend APIs for dynamic project and content management.
+* ▸ Secure contact form with validation and server-side handling.
+
+#### 🏢 [Employee Management System (EMS)](https://github.com/wajihacodeofficial/EMS-Offline)
+**Electron • React • Node.js • Express • PostgreSQL | 2026**
+* ▸ Offline desktop HR system using Electron for local business environments.
+* ▸ Attendance, payroll, and employee management modules.
+* ▸ PostgreSQL schema with REST APIs using Node.js/Express.
+* ▸ Reusable React component architecture with Hooks-based state management.
+
+#### 🏥 [Medify – AI Pharmacy Management System](https://github.com/wajihacodeofficial/Medify)
+**React • Node.js • Express • PostgreSQL • MongoDB • OpenAI API | 2025**
+* ▸ OpenAI API for prescription scanning and data extraction.
+* ▸ Real-time inventory system with low-stock alert automation.
+* ▸ Role-based access control (pharmacist, customer, admin).
+* ▸ Hybrid database design: PostgreSQL (transactions), MongoDB (documents).
+
+#### 🍕 [BiteDash – Food Delivery Platform](https://github.com/wajihacodeofficial/BiteDash)
+**React • Node.js • Express • PostgreSQL • MongoDB • WebSocket | 2025**
+* ▸ Real-time order tracking using WebSockets for live updates.
+* ▸ Normalized PostgreSQL schema for orders, users, and restaurants.
+* ▸ Modular backend structure inspired by microservices principles.
+* ▸ Dashboards for customers, restaurant managers and riders.
+
+<br/>
+
 ---
 
 ### <img src="assets/emoji_Open_Book.png" width="35" /> Education & Certifications
