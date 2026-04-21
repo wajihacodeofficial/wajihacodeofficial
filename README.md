@@ -46,7 +46,7 @@
 
 ---
 
-### <img src="assets/emoji_Hammer_and_Wrench.png" width="45" /> Arsenal & Core Tech
+### `<img src="assets/emoji_Hammer_and_Wrench.png" width="45" />` Arsenal & Core Tech
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react&theme=light" title="React" alt="React" width="50" />
@@ -67,7 +67,7 @@
 
 ---
 
-### <img src="assets/emoji_Crystal_Ball.png" width="35" /> Featured Projects
+### `<img src="assets/emoji_Crystal_Ball.png" width="35" />` Featured Projects
 
 <table align="center">
   <tr>
@@ -100,7 +100,7 @@
 
 ---
 
-### <img src="assets/emoji_Open_Book.png" width="35" /> Education & Certifications
+### `<img src="assets/emoji_Open_Book.png" width="35" />` Education & Certifications
 
 <table align="center">
   <tr>
@@ -113,10 +113,10 @@
     <td width="45%">
       <h4>📜 Certifications</h4>
       <ul>
-        <li>▸ Responsive Web Design — freeCodeCamp</li>
-        <li>▸ JavaScript Certification — freeCodeCamp</li>
-        <li>▸ Front End Development Libraries — freeCodeCamp</li>
-        <li>▸ Certified Full-Stack Developer — freeCodeCamp</li>
+        <li> Responsive Web Design — freeCodeCamp</li>
+        <li> JavaScript Certification — freeCodeCamp</li>
+        <li> Front End Development Libraries — freeCodeCamp</li>
+        <li> Certified Full-Stack Developer — freeCodeCamp</li>
       </ul>
     </td>
   </tr>
@@ -124,7 +124,7 @@
 
 ---
 
-### <img src="assets/emoji_High_Voltage.png" width="35" /> GitHub Insights
+### `<img src="assets/emoji_High_Voltage.png" width="35" />` GitHub Insights
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wajihacodeofficial&show_icons=true&theme=rose_pine" width="49%" />
@@ -138,18 +138,12 @@
 
 ---
 
-### <img src="assets/emoji_Star.png" width="35" /> Achievements & Problem Solving
+### `<img src="assets/emoji_Star.png" width="35" />` Achievements & Problem Solving
 
-<div align="center">
-  <img src="https://github-profile-achievements.vercel.app/api?username=wajihacodeofficial&theme=light&compact=true" width="100%" />
-</div>
-
-<br/>
-
-* ▸ **Solved 100+ Problems**: Demonstrating strong proficiency in data structures, algorithms, and problem-solving fundamentals on [LeetCode](https://leetcode.com/wajihacodeofficial).
-* ▸ **Clean Code & Architecture**: Followed clean code principles and component-based architecture for maintainable and scalable applications.
-* ▸ **Version Control Expert**: Utilized Git for professional version control with structured commits and collaborative workflows.
-* ▸ **DevOps & Deployment**: Successfully managed CI/CD and environment configurations for applications deployed on **Vercel** and **Railway**.
+- **Solved 100+ Problems**: Demonstrating strong proficiency in data structures, algorithms, and problem-solving fundamentals on [LeetCode](https://leetcode.com/wajihacodeofficial).
+- **Clean Code & Architecture**: Followed clean code principles and component-based architecture for maintainable and scalable applications.
+- **Version Control Expert**: Utilized Git for professional version control with structured commits and collaborative workflows.
+- **DevOps & Deployment**: Successfully managed CI/CD and environment configurations for applications deployed on **Vercel** and **Railway**.
 
 <br/>
 
@@ -157,7 +151,7 @@
 
 ---
 
-### <img src="assets/emoji_Sparkles.png" width="35" /> Digital Lifestyle
+### `<img src="assets/emoji_Sparkles.png" width="35" />` Digital Lifestyle
 
 <div align="center">
   <table>
