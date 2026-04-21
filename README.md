@@ -124,18 +124,24 @@
 
 ---
 
-### `<img src="assets/emoji_Star.png" width="35" />` Achievements & GitHub Insights
+### <img src="assets/emoji_High_Voltage.png" width="35" /> GitHub Insights
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wajihacodeofficial&show_icons=true&theme=rose_pine" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wajihacodeofficial&layout=compact&theme=rose_pine" width="49%" />
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wajihacodeofficial&theme=rose_pine" width="98.5%" />
+</div>
+
+<br/>
+
+---
+
+### <img src="assets/emoji_Star.png" width="35" /> Achievements & Problem Solving
 
 <div align="center">
   <img src="https://github-profile-achievements.vercel.app/api?username=wajihacodeofficial&theme=light&compact=true" width="100%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wajihacodeofficial&show_icons=true&theme=sakura" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wajihacodeofficial&theme=sakura&layout=compact" width="49%" />
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wajihacodeofficial&theme=sakura&hide_border=true" width="98.5%" />
 </div>
 
 <br/>
