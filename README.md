@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=timeGradient&customColorList=F52271,0ce8e8,ff9ff3&height=220&text=WAJIHA%20ZEHRA&fontSize=80&fontColor=ffffff&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineering%20Student&descSize=25&descColor=ffffff&fontAlignY=42&descAlignY=68" />
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=fcc9ef&customColorList=ff9ff3,fcc9ef,ffffff&height=220&text=WAJIHA%20ZEHRA&fontSize=80&fontColor=F52271&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineering%20Student&descSize=25&descColor=F52271&fontAlignY=42&descAlignY=68" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=23&pause=1000&color=F52271;0ce8e8;ff9ff3;F52271&center=true&vCenter=true&width=600&lines=Crafting+Production-Grade+Full-Stack+Apps;React.js+•+Node.js+•+PostgreSQL+Master;AI-Powered+Solutions+%26+Real-Time+Platforms;Final+Year+Software+Engineering+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=23&pause=1000&color=F52271&center=true&vCenter=true&width=600&lines=Crafting+Production-Grade+Full-Stack+Apps;React.js+•+Node.js+•+PostgreSQL+Master;AI-Powered+Solutions+%26+Real-Time+Platforms;Final+Year+Software+Engineering+Student" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -49,20 +49,20 @@
 ### <img src="assets/emoji_Hammer_and_Wrench.png" width="45" /> Arsenal & Core Tech
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react" title="React" alt="React" width="50" />
-  <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" alt="TypeScript" width="50" />
-  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" alt="JavaScript" width="50" />
-  <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" alt="Node.js" width="50" />
-  <img src="https://skillicons.dev/icons?i=express" title="Express" alt="Express" width="50" />
-  <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" alt="PostgreSQL" width="50" />
-  <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" alt="MongoDB" width="50" />
-  <img src="https://skillicons.dev/icons?i=html" title="HTML5" alt="HTML5" width="50" />
-  <img src="https://skillicons.dev/icons?i=css" title="CSS3" alt="CSS3" width="50" />
-  <img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" width="50" />
-  <img src="https://skillicons.dev/icons?i=github" title="GitHub" alt="GitHub" width="50" />
-  <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" alt="VS Code" width="50" />
-  <img src="https://skillicons.dev/icons?i=vercel" title="Vercel" alt="Vercel" width="50" />
-  <img src="https://skillicons.dev/icons?i=railway" title="Railway" alt="Railway" width="50" />
+  <img src="https://skillicons.dev/icons?i=react&theme=light" title="React" alt="React" width="50" />
+  <img src="https://skillicons.dev/icons?i=ts&theme=light" title="TypeScript" alt="TypeScript" width="50" />
+  <img src="https://skillicons.dev/icons?i=js&theme=light" title="JavaScript" alt="JavaScript" width="50" />
+  <img src="https://skillicons.dev/icons?i=nodejs&theme=light" title="Node.js" alt="Node.js" width="50" />
+  <img src="https://skillicons.dev/icons?i=express&theme=light" title="Express" alt="Express" width="50" />
+  <img src="https://skillicons.dev/icons?i=postgres&theme=light" title="PostgreSQL" alt="PostgreSQL" width="50" />
+  <img src="https://skillicons.dev/icons?i=mongodb&theme=light" title="MongoDB" alt="MongoDB" width="50" />
+  <img src="https://skillicons.dev/icons?i=html&theme=light" title="HTML5" alt="HTML5" width="50" />
+  <img src="https://skillicons.dev/icons?i=css&theme=light" title="CSS3" alt="CSS3" width="50" />
+  <img src="https://skillicons.dev/icons?i=git&theme=light" title="Git" alt="Git" width="50" />
+  <img src="https://skillicons.dev/icons?i=github&theme=light" title="GitHub" alt="GitHub" width="50" />
+  <img src="https://skillicons.dev/icons?i=vscode&theme=light" title="VS Code" alt="VS Code" width="50" />
+  <img src="https://skillicons.dev/icons?i=vercel&theme=light" title="Vercel" alt="Vercel" width="50" />
+  <img src="https://skillicons.dev/icons?i=railway&theme=light" title="Railway" alt="Railway" width="50" />
 </div>
 
 ---
@@ -156,11 +156,11 @@
 ### <img src="assets/emoji_High_Voltage.png" width="35" /> GitHub Insights
 
 <div align="center">
-  <img src="assets/stats_general.svg" width="49%" />
-  <img src="assets/stats_langs.svg" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=wajihacodeofficial&show_icons=true&theme=sakura&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wajihacodeofficial&layout=compact&theme=sakura&hide_border=true" width="49%" />
 </div>
 <div align="center">
-  <img src="assets/stats_streak.svg" width="98.5%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wajihacodeofficial&theme=sakura&hide_border=true" width="98.5%" />
 </div>
 
 <br/>
@@ -170,7 +170,7 @@
 ### <img src="assets/emoji_Star.png" width="35" /> Achievements & Problem Solving
 
 <div align="center">
-  <img src="https://github-profile-achievements.vercel.app/api?username=wajihacodeofficial&theme=dark&compact=true" width="100%" />
+  <img src="https://github-profile-achievements.vercel.app/api?username=wajihacodeofficial&theme=light&compact=true" width="100%" />
 </div>
 
 <br/>
