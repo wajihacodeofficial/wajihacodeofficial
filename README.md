@@ -1,26 +1,27 @@
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=fcc9ef&customColorList=ff9ff3,fcc9ef,ffffff&height=220&text=WAJIHA%20ZEHRA&fontSize=80&fontColor=F52271&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineering%20Student&descSize=25&descColor=F52271&fontAlignY=42&descAlignY=68" />
+  <img src="assets/header_capsule.svg" width="100%" alt="Wajiha Zehra" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=23&pause=1000&color=F52271&center=true&vCenter=true&width=600&lines=Crafting+Production-Grade+Full-Stack+Apps;React.js+•+Node.js+•+PostgreSQL+Master;AI-Powered+Solutions+%26+Real-Time+Platforms;Final+Year+Software+Engineering+Student" alt="Typing SVG" />
+  <img src="assets/header_typing.svg" width="650" alt="Typing SVG" />
 </div>
 
 <div align="center">
+  <a href="https://wajihazehra.dev" target="_blank">
+    <img src="assets/badge_Portfolio.svg" alt="Portfolio" />
+  </a>
   <a href="https://www.linkedin.com/in/wajihacodeofficial/" target="_blank">
     <img src="assets/badge_LinkedIn.svg" alt="LinkedIn" />
   </a>
   <a href="https://github.com/wajihacodeofficial" target="_blank">
     <img src="assets/badge_GitHub.svg" alt="GitHub" />
   </a>
-  <a href="https://api.whatsapp.com/send/?phone=923177760506" target="_blank">
+  <a href="https://wa.me/923177760506" target="_blank">
     <img src="assets/badge_WhatsApp.svg" alt="WhatsApp" />
   </a>
   <a href="mailto:wajihacodeofficial@gmail.com" target="_blank">
     <img src="assets/badge_Email.svg" alt="Email" />
-  </a>
-  <a href="https://www.instagram.com/wajihacodeofficial/" target="_blank">
-    <img src="assets/badge_Instagram.svg" alt="Instagram" />
   </a>
 </div>
 
@@ -29,13 +30,13 @@
 <table align="center">
   <tr>
     <td width="55%">
-      <h3><img src="https://raw.githubusercontent.com/wajihacodeofficial/wajihacodeofficial/main/assets/emoji_Man_Technologist.png" width="35" /> Professional Summary</h3>
-      <p>I am a <b>Final-year Software Engineering student</b> with hands-on experience building <b>5 independent production-grade applications</b>, alongside contributing to multiple team-based projects as a <b>Frontend Specialist</b>. I am proficient across the full stack — from creating high-performance React UIs to architecting PostgreSQL schemas and Node.js REST APIs.</p>
+      <h3><img src="https://raw.githubusercontent.com/wajihacodeofficial/wajihacodeofficial/main/assets/emoji_Man_Technologist.png" width="35" /> About Me</h3>
+      <p>I am <b>Wajiha Zehra</b>, a <b>Software Engineer & Full Stack Developer</b> (BS Software Engineering, Iqra University 2023–Present). I specialize in building modern, high-performance web applications with clean code, scalable architecture, and delightful user experiences.</p>
       <ul>
-        <li> 5+ Solo production apps including AI and Real-time platforms.</li>
-        <li> Extensive experience collaborating in team environments as a Frontend dev.</li>
-        <li>Expert in <b>React.js</b>, <b>Node.js</b>, and <b>Scalable System Design</b>.</li>
-        <li> Based in <b>Karachi, Pakistan</b>, ready to bring 5-star quality to engineering teams.</li>
+        <li>🚀 <b>Live Portfolio</b>: <a href="https://wajihazehra.dev">wajihazehra.dev</a></li>
+        <li>💻 <b>Core Expertise</b>: React.js, TypeScript, JavaScript, Node.js, Express, MongoDB, PostgreSQL, Tailwind CSS.</li>
+        <li>💡 <b>Mindset</b>: Creative thinking, analytical problem solving, and attention to detail.</li>
+        <li>📍 Based in <b>Karachi, Pakistan</b> — open for engineering roles and collaborations.</li>
       </ul>
     </td>
     <td width="45%" align="center">
@@ -46,77 +47,110 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/wajihacodeofficial/wajihacodeofficial/main/assets/emoji_Hammer_and_Wrench.png" width="45" /> Arsenal & Core Tech
+###  Tech Stack & Arsenal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react&theme=light" title="React" alt="React" width="50" />
-  <img src="https://skillicons.dev/icons?i=ts&theme=light" title="TypeScript" alt="TypeScript" width="50" />
-  <img src="https://skillicons.dev/icons?i=js&theme=light" title="JavaScript" alt="JavaScript" width="50" />
-  <img src="https://skillicons.dev/icons?i=nodejs&theme=light" title="Node.js" alt="Node.js" width="50" />
-  <img src="https://skillicons.dev/icons?i=express&theme=light" title="Express" alt="Express" width="50" />
-  <img src="https://skillicons.dev/icons?i=postgres&theme=light" title="PostgreSQL" alt="PostgreSQL" width="50" />
-  <img src="https://skillicons.dev/icons?i=mongodb&theme=light" title="MongoDB" alt="MongoDB" width="50" />
-  <img src="https://skillicons.dev/icons?i=html&theme=light" title="HTML5" alt="HTML5" width="50" />
-  <img src="https://skillicons.dev/icons?i=css&theme=light" title="CSS3" alt="CSS3" width="50" />
-  <img src="https://skillicons.dev/icons?i=git&theme=light" title="Git" alt="Git" width="50" />
-  <img src="https://skillicons.dev/icons?i=github&theme=light" title="GitHub" alt="GitHub" width="50" />
-  <img src="https://skillicons.dev/icons?i=vscode&theme=light" title="VS Code" alt="VS Code" width="50" />
-  <img src="https://skillicons.dev/icons?i=vercel&theme=light" title="Vercel" alt="Vercel" width="50" />
-  <img src="https://skillicons.dev/icons?i=railway&theme=light" title="Railway" alt="Railway" width="50" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,express,postgres,mongodb,tailwind,html,css,git,github,vscode,vercel&theme=light" alt="Tech Skills" />
+</div>
+
+<br/>
+
+<div align="center">
+  <code>React.js</code> • <code>TypeScript</code> • <code>JavaScript</code> • <code>Node.js</code> • <code>Express.js</code> • <code>MongoDB</code> • <code>PostgreSQL</code> • <code>Tailwind CSS</code> • <code>Framer Motion</code> • <code>REST APIs</code> • <code>Vite</code> • <code>Git/GitHub</code>
 </div>
 
 ---
 
-### <img src="https://raw.githubusercontent.com/wajihacodeofficial/wajihacodeofficial/main/assets/emoji_Crystal_Ball.png" width="35" /> Featured Projects
+###  Featured Projects
 
 <table align="center">
   <tr>
     <td width="50%" valign="top">
-      <h4>🌐 <a href="https://github.com/wajihacodeofficial/Wajiha-Zehra-Portfolio">Personal Portfolio</a></h4>
-      <p><b>React • Node.js • PostgreSQL</b></p>
-      <p>A scalable and SEO-optimized platform designed to showcase professional projects and skills with a modular architecture and high-performance backend.</p>
+      <h4>🤖 <a href="https://clientpilotai.rehanhussain.dev/">ClientPilot AI</a> <img src="https://img.shields.io/badge/FYP-AI%20Platform-F52271?style=flat-square" alt="FYP" /></h4>
+      <p><b>React.js • Node.js • AI & LLMs • MongoDB • Tailwind CSS</b></p>
+      <p>AI-powered client acquisition platform that discovers businesses, analyzes their digital presence, identifies real opportunities, and helps agencies win high-ticket clients.</p>
+      <p>🔗 <a href="https://clientpilotai.rehanhussain.dev/"><b>Live Demo</b></a> • <a href="https://github.com/wajihacodeofficial">GitHub</a></p>
     </td>
     <td width="50%" valign="top">
-      <h4>🏢 <a href="https://github.com/wajihacodeofficial/EMS-Offline">EMS-Offline</a></h4>
-      <p><b>Electron • React • PostgreSQL</b></p>
-      <p>A robust offline desktop HR solution built with Electron for managing attendance, payroll, and employee records in secure local business environments.</p>
+      <h4>🍔 <a href="https://bitedash.rehanhussain.dev/">BiteDash</a> <img src="https://img.shields.io/badge/Full--Stack-Food%20App-orange?style=flat-square" alt="Food App" /></h4>
+      <p><b>React.js • Node.js • Express.js • MongoDB • Tailwind CSS</b></p>
+      <p>On-demand food delivery web application connecting customers to top-tier verified restaurants featuring lightning-fast ordering, dynamic menus, and real-time tracking.</p>
+      <p>🔗 <a href="https://bitedash.rehanhussain.dev/"><b>Live Demo</b></a> • <a href="https://github.com/wajihacodeofficial">GitHub</a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🏥 <a href="https://github.com/wajihacodeofficial/Medify">Medify - AI Pharmacy</a></h4>
-      <p><b>React • OpenAI • Node.js</b></p>
-      <p>AI-driven pharmacy management system integrating OpenAI for automated prescription scanning and real-time inventory tracking via a hybrid database design.</p>
+      <h4>✨ <a href="https://nidasalon-demo.vercel.app/">Nida's Salon</a> <img src="https://img.shields.io/badge/Luxury-Demo-purple?style=flat-square" alt="Luxury" /></h4>
+      <p><b>React.js • TypeScript • Tailwind CSS • Framer Motion</b></p>
+      <p>Where Elegance Meets Artistry — an upscale beauty salon platform featuring seamless appointment scheduling, luxury service showcase, and an interactive customer experience.</p>
+      <p>🔗 <a href="https://nidasalon-demo.vercel.app/"><b>Live Demo</b></a> • <a href="https://github.com/wajihacodeofficial">GitHub</a></p>
     </td>
     <td width="50%" valign="top">
-      <h4>🍕 <a href="https://github.com/wajihacodeofficial/BiteDash">BiteDash - Food App</a></h4>
-      <p><b>React • WebSockets • MongoDB</b></p>
-      <p>High-performance food delivery platform utilizing WebSockets for real-time order tracking and a modular architecture inspired by microservices.</p>
+      <h4>🎀 <a href="https://wajihazehra.dev">Personal Portfolio (wajihazehra.dev)</a></h4>
+      <p><b>React • TypeScript • Tailwind CSS v4 • Framer Motion</b></p>
+      <p>High-performance personal portfolio featuring dual-persona design system (Soft Girl & Cool Noir Baddie), 3D flipping ID card, verified LinkedIn recommendations, and live GitHub insights.</p>
+      <p>🔗 <a href="https://wajihazehra.dev"><b>Live Portfolio</b></a> • <a href="https://github.com/wajihacodeofficial/wajihaportfolio">Source Code</a></p>
     </td>
   </tr>
 </table>
 
-<br/>
+---
+
+###  What I Can Build (Services)
+
+<table>
+  <tr>
+    <td width="50%">
+      <b>01. Web Development</b><br/>
+      Fast, functional, accessible, and responsive websites designed to work smoothly across all devices.
+    </td>
+    <td width="50%">
+      <b>02. Frontend Development</b><br/>
+      Polished, interactive interfaces with thoughtful layouts, smooth motion, and attention to detail.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <b>03. Full Stack Development</b><br/>
+      End-to-end web applications combining robust backend APIs, secure databases, and reactive frontends.
+    </td>
+    <td width="50%">
+      <b>04. UI/UX Implementation & Optimization</b><br/>
+      Turning designs into reality with focus on performance, usability, accessibility, and visual hierarchy.
+    </td>
+  </tr>
+</table>
 
 ---
 
-### <img src="https://raw.githubusercontent.com/wajihacodeofficial/wajihacodeofficial/main/assets/emoji_Open_Book.png" width="35" /> Education & Certifications
+###  Verified LinkedIn Recommendations
+
+> *"Working with Wajiha as both a classmate and co-founder at Code Vertex has been an incredible experience. She brings exceptional creativity and precision to frontend development, transforming complex ideas into intuitive, user-friendly interfaces."*
+> — **Muhammad Rehan Hussain** (Co-Founder @ Code Vertex)
+
+> *"I highly recommend Wajiha Zehra. She is a brilliant student of mine who is not only excelling academically but is also working on her own venture and contributing actively to projects. She is hardworking, passionate about innovation, and always eager to learn and grow."*
+> — **Asif Ali** (Technologically Proficient Educator | Serial Entrepreneur)
+
+> *"I highly recommend her for frontend development roles. She was my student and actively participated throughout the course, consistently demonstrating strong skills in Frontend development. She builds responsive, user-friendly interfaces."*
+> — **Urooj Fatima** (MS Data Science @ FAST NUCES)
+
+---
+
+###  Education & Experience
 
 <table align="center">
   <tr>
-    <td width="55%">
+    <td width="50%">
       <h4>🎓 Education</h4>
       <p><b>BS in Software Engineering</b><br/>
       Iqra University, Karachi, Pakistan<br/>
       <i>2023 – Present (Final Year)</i></p>
     </td>
-    <td width="45%">
-      <h4>📜 Certifications</h4>
+    <td width="50%">
+      <h4>💼 Experience</h4>
       <ul>
-        <li> Responsive Web Design — freeCodeCamp</li>
-        <li> JavaScript Certification — freeCodeCamp</li>
-        <li> Front End Development Libraries — freeCodeCamp</li>
-        <li> Certified Full-Stack Developer — freeCodeCamp</li>
+        <li><b>Frontend Developer</b> (2026 — Present)<br/>Architecting responsive interfaces with React.js and modern web standards.</li>
+        <li><b>Web Development Intern</b> (2025)<br/>Full-stack feature development using Node.js, Express.js, and MongoDB.</li>
       </ul>
     </td>
   </tr>
@@ -124,7 +158,7 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/wajihacodeofficial/wajihacodeofficial/main/assets/emoji_High_Voltage.png" width="35" /> GitHub Insights
+###  GitHub Insights & Activity
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wajihacodeofficial&show_icons=true&theme=rose_pine" width="49%" />
@@ -136,58 +170,35 @@
 
 <br/>
 
----
-
-### <img src="https://raw.githubusercontent.com/wajihacodeofficial/wajihacodeofficial/main/assets/emoji_Star.png" width="35" /> Achievements & Problem Solving
-
-- **Solved 100+ Problems**: Demonstrating strong proficiency in data structures, algorithms, and problem-solving fundamentals on [LeetCode](https://leetcode.com/wajihacodeofficial).
-- **Clean Code & Architecture**: Followed clean code principles and component-based architecture for maintainable and scalable applications.
-- **Version Control Expert**: Utilized Git for professional version control with structured commits and collaborative workflows.
-- **DevOps & Deployment**: Successfully managed CI/CD and environment configurations for applications deployed on **Vercel** and **Railway**.
-
-<br/>
-
-<br/>
-
----
-
-### <img src="https://raw.githubusercontent.com/wajihacodeofficial/wajihacodeofficial/main/assets/emoji_Sparkles.png" width="35" /> Digital Lifestyle
-
 <div align="center">
-  <table>
-    <tr>
-      <td><img src="assets/emoji_Scroll.png" width="25" /> <b>Lines of Code:</b></td>
-      <td><code>500,000+</code></td>
-    </tr>
-    <tr>
-      <td><img src="assets/emoji_Lady_Beetle.png" width="25" /> <b>Bugs Squashed:</b></td>
-      <td><code>3,500+</code></td>
-    </tr>
-    <tr>
-      <td><img src="assets/emoji_Hourglass_Done.png" width="25" /> <b>Daily Work Hours:</b></td>
-      <td><code>8+ Hours</code></td>
-    </tr>
-    <tr>
-      <td><img src="assets/emoji_Brain.png" width="25" /> <b>Learning Time:</b></td>
-      <td><code>8,000+ Hours</code></td>
-    </tr>
-    <tr>
-      <td><img src="assets/emoji_Teacup_Without_Handle.png" width="25" /> <b>Tea/Coffee:</b></td>
-      <td><code>2,000+ cups</code></td>
-    </tr>
-    <tr>
-      <td><img src="assets/emoji_Alien_Monster.png" width="25" /> <b>Free Time Activities:</b></td>
-      <td><code>Learning AI & Gaming</code></td>
-    </tr>
-  </table>
+  <img src="https://raw.githubusercontent.com/wajihacodeofficial/wajihacodeofficial/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake" />
 </div>
 
 ---
 
-### ✨ Contribution Activity
+###  Developer Metrics
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/wajihacodeofficial/wajihacodeofficial/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Girly Snake Animation" />
+  <table>
+    <tr>
+      <td><img src="assets/emoji_Scroll.png" width="22" /> <b>Lines of Code:</b></td>
+      <td><code>500,000+</code></td>
+      <td><img src="assets/emoji_Lady_Beetle.png" width="22" /> <b>Bugs Squashed:</b></td>
+      <td><code>3,500+</code></td>
+    </tr>
+    <tr>
+      <td><img src="assets/emoji_Hourglass_Done.png" width="22" /> <b>Daily Coding:</b></td>
+      <td><code>8+ Hours</code></td>
+      <td><img src="assets/emoji_Brain.png" width="22" /> <b>Learning & Research:</b></td>
+      <td><code>8,000+ Hours</code></td>
+    </tr>
+    <tr>
+      <td><img src="assets/emoji_Teacup_Without_Handle.png" width="22" /> <b>Chai / Coffee:</b></td>
+      <td><code>2,000+ cups</code></td>
+      <td><img src="assets/emoji_Alien_Monster.png" width="22" /> <b>Passions:</b></td>
+      <td><code>AI, Modern UI/UX & Web Systems</code></td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -199,15 +210,22 @@
 <br/>
 
 <div align="center">
+  <a href="https://wajihazehra.dev" target="_blank">
+    <img src="assets/badge_Portfolio.svg" height="34" alt="Visit Portfolio" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
   <img src="assets/stats_views.svg" />
 </div>
 
 <div align="center">
-<div align="center">
   <br />
-  <i>Connecting Vision with High-Performance Reality.</i>
+  <i>“Curious mind. Creative thinking. Thoughtful execution.”</i>
   <br />
   <br />
   <b>Thank you for visiting! Let's build something extraordinary. <img src="assets/emoji_Rocket.png" width="25" /></b>
   <br />
- </div>
+</div>
